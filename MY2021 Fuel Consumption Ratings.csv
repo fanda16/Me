@@ -1,0 +1,994 @@
+Model;Make;Model;VehicleClass;EngineSize;Cylinders;Transmission;Fuel;FuelConsumption;CO2 Emissions;CO2;Smog
+2021;Acura;ILX;Compact;2.4;4;AM8;Z;9.9;199;6;3
+2021;Acura;NSX;Two-seater;3.5;6;AM9;Z;11.1;256;4;3
+2021;Acura;RDX SH-AWD;SUV: Small;2.0;4;AS10;Z;11.0;232;5;6
+2021;Acura;RDX SH-AWD A-SPEC;SUV: Small;2.0;4;AS10;Z;11.3;242;5;6
+2021;Acura;TLX SH-AWD;Compact;2.0;4;AS10;Z;11.2;230;5;7
+2021;Acura;TLX SH-AWD A-SPEC;Compact;2.0;4;AS10;Z;11.3;231;5;7
+2021;Acura;TLX Type S;Compact;3.0;6;AS10;Z;12.3;256;4;5
+2021;Acura;TLX Type S (Performance Tire);Compact;3.0;6;AS10;Z;12.3;261;4;5
+2021;Alfa Romeo;Giulia;Mid-size;2.0;4;A8;Z;10.0;205;6;3
+2021;Alfa Romeo;Giulia AWD;Mid-size;2.0;4;A8;Z;10.5;217;5;3
+2021;Alfa Romeo;Giulia Quadrifoglio;Mid-size;2.9;6;A8;Z;13.5;271;4;3
+2021;Alfa Romeo;Stelvio;SUV: Small;2.0;4;A8;Z;10.3;218;5;3
+2021;Alfa Romeo;Stelvio AWD;SUV: Small;2.0;4;A8;Z;10.8;226;5;3
+2021;Alfa Romeo;Stelvio AWD Quadrifoglio;SUV: Small;2.9;6;A8;Z;13.9;288;3;3
+2021;Aston Martin;DB11 V8;Minicompact;4.0;8;A8;Z;13.0;271;4;3
+2021;Aston Martin;DB11 AMR;Minicompact;5.2;12;A8;Z;15.5;312;3;3
+2021;Aston Martin;DBS Superleggera;Minicompact;5.2;12;A8;Z;16.4;324;3;3
+2021;Aston Martin;DBX V8;SUV: Standard;4.0;8;A9;Z;17.1;357;2;3
+2021;Aston Martin;Vantage V8;Two-seater;4.0;8;A8;Z;13.1;270;4;3
+2021;Aston Martin;Vantage V8;Two-seater;4.0;8;M7;Z;16.7;333;3;3
+2021;Audi;A4 allroad 45 TFSI quattro;Station wagon: Small;2.0;4;AM7;Z;9.8;208;6;5
+2021;Audi;A4 Sedan 40 TFSI quattro;Compact;2.0;4;AM7;Z;9.3;194;6;5
+2021;Audi;A4 Sedan 45 TFSI quattro;Compact;2.0;4;AM7;Z;9.8;205;6;5
+2021;Audi;A5 Cabriolet 45 TFSI quattro;Subcompact;2.0;4;AM7;Z;10.4;212;5;5
+2021;Audi;A5 Coupe 45 TFSI quattro;Subcompact;2.0;4;AM7;Z;9.8;205;6;5
+2021;Audi;A5 Sportback 45 TFSI quattro;Mid-size;2.0;4;AM7;Z;9.8;205;6;5
+2021;Audi;A6 allroad 55 TFSI quattro;Station wagon: Mid-size;3.0;6;AM7;Z;11.8;247;4;5
+2021;Audi;A6 Sedan 45 TFSI quattro;Mid-size;2.0;4;AM7;Z;10.3;214;5;5
+2021;Audi;A6 Sedan 55 TFSI quattro;Mid-size;3.0;6;AM7;Z;10.9;227;5;5
+2021;Audi;A7 Sportback 55 TFSI quattro;Mid-size;3.0;6;AM7;Z;10.9;227;5;5
+2021;Audi;A8 L Sedan 55 TFSI quattro;Full-size;3.0;6;AS8;Z;13.5;267;4;5
+2021;Audi;A8 L Sedan 60 TFSI quattro;Full-size;4.0;8;AS8;Z;15.4;308;3;3
+2021;Audi;Q3 40 TFSI quattro;SUV: Small;2.0;4;AS8;X;10.6;218;5;7
+2021;Audi;Q3 45 TFSI quattro;SUV: Small;2.0;4;AS8;X;11.7;239;5;7
+2021;Audi;Q5 45 TFSI quattro;SUV: Small;2.0;4;AM7;Z;10.1;217;5;5
+2021;Audi;Q5 Sportback 45 TFSI quattro;SUV: Small;2.0;4;AM7;Z;10.1;217;5;5
+2021;Audi;Q7 45 TFSI quattro;SUV: Standard;2.0;4;AS8;Z;12.4;264;4;3
+2021;Audi;Q7 55 TFSI quattro;SUV: Standard;3.0;6;AS8;Z;13.4;281;4;5
+2021;Audi;Q8 55 TFSI quattro;SUV: Standard;3.0;6;AS8;Z;13.4;281;4;5
+2021;Audi;R8 Coupe;Two-seater;5.2;10;AM7;Z;17.2;329;3;1
+2021;Audi;R8 Coupe quattro;Two-seater;5.2;10;AM7;Z;17.6;353;2;1
+2021;Audi;R8 Spyder;Two-seater;5.2;10;AM7;Z;17.2;329;3;1
+2021;Audi;R8 Spyder quattro;Two-seater;5.2;10;AM7;Z;17.6;353;2;1
+2021;Audi;RS 5 Coupe quattro;Subcompact;2.9;6;AS8;Z;13.1;269;4;5
+2021;Audi;RS 5 Sportback quattro;Mid-size;2.9;6;AS8;Z;13.1;266;4;5
+2021;Audi;RS 6 Avant quattro;Station wagon: Mid-size;4.0;8;AS8;Z;16.1;319;3;3
+2021;Audi;RS 7 Sportback quattro;Mid-size;4.0;8;AS8;Z;16.0;315;3;3
+2021;Audi;RS Q8 quattro;SUV: Standard;4.0;8;AS8;Z;18.0;360;2;3
+2021;Audi;S4 Sedan quattro;Compact;3.0;6;AS8;Z;11.5;237;5;5
+2021;Audi;S5 Cabriolet quattro;Subcompact;3.0;6;AS8;Z;11.7;244;5;5
+2021;Audi;S5 Coupe quattro;Subcompact;3.0;6;AS8;Z;11.5;237;5;5
+2021;Audi;S5 Sportback quattro;Mid-size;3.0;6;AS8;Z;11.5;237;5;5
+2021;Audi;S6 Sedan quattro;Mid-size;2.9;6;AS8;Z;12.9;255;4;5
+2021;Audi;S7 Sportback quattro;Mid-size;2.9;6;AS8;Z;12.9;255;4;5
+2021;Audi;S8 Sedan quattro;Full-size;4.0;8;AS8;Z;17.6;339;2;3
+2021;Audi;SQ5 quattro;SUV: Small;3.0;6;AS8;Z;13.1;274;4;5
+2021;Audi;SQ5 Sportback quattro;SUV: Small;3.0;6;AS8;Z;13.1;274;4;5
+2021;Audi;SQ7 quattro;SUV: Standard;4.0;8;AS8;Z;16.0;324;3;3
+2021;Audi;SQ8 quattro;SUV: Standard;4.0;8;AS8;Z;16.0;324;3;3
+2021;Audi;TT Coupe 45 TFSI quattro;Subcompact;2.0;4;AM7;X;10.4;216;5;7
+2021;Audi;TT Roadster 45 TFSI quattro;Two-seater;2.0;4;AM7;X;10.4;216;5;7
+2021;Audi;TT RS Coupe quattro;Subcompact;2.5;5;AM7;Z;11.6;232;5;3
+2021;Audi;TTS Coupe quattro;Subcompact;2.0;4;AM7;Z;10.4;220;5;3
+2021;Bentley;Bentayga;SUV: Standard;4.0;8;AS8;Z;15.8;309;3;3
+2021;Bentley;Bentayga;SUV: Standard;6.0;12;AS8;Z;19.0;383;1;3
+2021;Bentley;Continental GT;Subcompact;4.0;8;AM8;Z;15.0;290;3;3
+2021;Bentley;Continental GT;Subcompact;6.0;12;AM8;Z;19.0;364;2;3
+2021;Bentley;Continental GT Convertible;Minicompact;4.0;8;AM8;Z;15.0;290;3;3
+2021;Bentley;Continental GT Convertible;Minicompact;6.0;12;AM8;Z;19.2;373;2;3
+2021;Bentley;Flying Spur;Mid-size;4.0;8;AM8;Z;15.5;323;3;3
+2021;Bentley;Flying Spur;Mid-size;6.0;12;AM8;Z;19.2;373;2;3
+2021;BMW;228i xDrive Gran Coupe;Compact;2.0;4;AS8;Z;10.2;206;6;7
+2021;BMW;230i xDrive Cabriolet;Subcompact;2.0;4;AS8;Z;11.2;225;5;7
+2021;BMW;230i xDrive Coupe;Subcompact;2.0;4;AS8;Z;11.2;225;5;7
+2021;BMW;330i xDrive Sedan;Compact;2.0;4;AS8;Z;9.5;195;6;7
+2021;BMW;430i xDrive Coupe;Subcompact;2.0;4;AS8;Z;10.0;202;6;7
+2021;BMW;530i xDrive Sedan;Mid-size;2.0;4;AS8;Z;10.1;206;6;7
+2021;BMW;540i xDrive Sedan;Full-size;3.0;6;AS8;Z;10.3;211;5;5
+2021;BMW;750i xDrive Sedan;Full-size;4.4;8;AS8;Z;14.0;281;4;3
+2021;BMW;750Li xDrive Sedan;Full-size;4.4;8;AS8;Z;14.0;281;4;3
+2021;BMW;Alpina B7 xDrive;Full-size;4.4;8;AS8;Z;14.0;281;4;3
+2021;BMW;Alpina XB7;SUV: Standard;4.4;8;AS8;Z;15.7;321;3;3
+2021;BMW;M2 Competition;Subcompact;3.0;6;AM7;Z;14.3;293;3;3
+2021;BMW;M2 Competition;Subcompact;3.0;6;M6;Z;13.4;273;4;3
+2021;BMW;M235i xDrive Gran Coupe;Compact;2.0;4;AS8;Z;10.4;213;5;7
+2021;BMW;M240i xDrive Cabriolet;Subcompact;3.0;6;AS8;Z;11.3;228;5;3
+2021;BMW;M240i xDrive Coupe;Subcompact;3.0;6;AS8;Z;11.3;228;5;3
+2021;BMW;M340i xDrive Sedan;Compact;3.0;6;AS8;Z;10.5;214;5;5
+2021;BMW;M440i xDrive Coupe;Subcompact;3.0;6;AS8;Z;10.5;214;5;5
+2021;BMW;M5 Sedan;Mid-size;4.4;8;AS8;Z;16.0;323;3;3
+2021;BMW;M5 Competition;Mid-size;4.4;8;AS8;Z;16.0;323;3;3
+2021;BMW;M550i xDrive Sedan;Mid-size;4.4;8;AS8;Z;13.5;272;4;3
+2021;BMW;M760i xDrive Sedan;Full-size;6.6;12;AS8;Z;17.8;354;2;3
+2021;BMW;M8 Cabriolet;Subcompact;4.4;8;AS8;Z;16.0;323;3;3
+2021;BMW;M8 Cabriolet Competition;Subcompact;4.4;8;AS8;Z;16.0;323;3;3
+2021;BMW;M8 Coupe;Subcompact;4.4;8;AS8;Z;16.0;323;3;3
+2021;BMW;M8 Coupe Competition;Subcompact;4.4;8;AS8;Z;16.0;323;3;3
+2021;BMW;M8 Gran Coupe;Mid-size;4.4;8;AS8;Z;16.0;323;3;3
+2021;BMW;M8 Gran Coupe Competition;Mid-size;4.4;8;AS8;Z;16.0;323;3;3
+2021;BMW;M850i xDrive Cabriolet;Subcompact;4.4;8;AS8;Z;14.0;281;4;3
+2021;BMW;M850i xDrive Coupe;Subcompact;4.4;8;AS8;Z;13.5;272;4;3
+2021;BMW;M850i xDrive Gran Coupe;Mid-size;4.4;8;AS8;Z;14.0;281;4;3
+2021;BMW;X1 xDrive28i;SUV: Small;2.0;4;AS8;Z;10.3;213;5;7
+2021;BMW;X2 xDrive28i;SUV: Small;2.0;4;AS8;Z;9.8;205;6;7
+2021;BMW;X2 M35i;SUV: Small;2.0;4;AS8;Z;10.0;209;5;7
+2021;BMW;X3 xDrive30i;SUV: Small;2.0;4;AS8;Z;10.2;217;5;7
+2021;BMW;X3 M;SUV: Small;3.0;6;AS8;Z;16.6;339;2;3
+2021;BMW;X3 M Competition;SUV: Small;3.0;6;AS8;Z;16.6;339;2;3
+2021;BMW;X3 M40i;SUV: Small;3.0;6;AS8;Z;11.3;235;5;5
+2021;BMW;X4 xDrive30i;SUV: Small;2.0;4;AS8;Z;10.2;217;5;7
+2021;BMW;X4 M;SUV: Small;3.0;6;AS8;Z;16.6;339;2;3
+2021;BMW;X4 M Competition;SUV: Small;3.0;6;AS8;Z;16.6;339;2;3
+2021;BMW;X4 M40i;SUV: Small;3.0;6;AS8;Z;11.3;235;5;5
+2021;BMW;X5 xDrive40i;SUV: Standard;3.0;6;AS8;Z;11.4;242;5;3
+2021;BMW;X5 M;SUV: Standard;4.4;8;AS8;Z;17.9;364;2;3
+2021;BMW;X5 M Competition;SUV: Standard;4.4;8;AS8;Z;17.9;364;2;3
+2021;BMW;X5 M50i;SUV: Standard;4.4;8;AS8;Z;14.4;302;3;3
+2021;BMW;X6 xDrive40i;SUV: Standard;3.0;6;AS8;Z;11.4;242;5;3
+2021;BMW;X6 M;SUV: Standard;4.4;8;AS8;Z;17.9;364;2;3
+2021;BMW;X6 M Competition;SUV: Standard;4.4;8;AS8;Z;17.9;364;2;3
+2021;BMW;X6 M50i;SUV: Standard;4.4;8;AS8;Z;14.4;302;3;3
+2021;BMW;X7 xDrive40i;SUV: Standard;3.0;6;AS8;Z;12.1;256;4;3
+2021;BMW;X7 M50i;SUV: Standard;4.4;8;AS8;Z;15.7;321;3;3
+2021;BMW;Z4 sDrive30i;Two-seater;2.0;4;AS8;Z;9.4;197;6;7
+2021;BMW;Z4 M40i;Two-seater;3.0;6;AS8;Z;10.7;221;5;5
+2021;Bugatti;Chiron;Two-seater;8.0;16;AM7;Z;26.8;522;1;1
+2021;Bugatti;Chiron Pur Sport;Two-seater;8.0;16;AM7;Z;30.3;608;1;1
+2021;Buick;Enclave;SUV: Standard;3.6;6;A9;X;13.0;264;4;6
+2021;Buick;Enclave AWD;SUV: Standard;3.6;6;A9;X;13.6;277;4;6
+2021;Buick;Encore;SUV: Small;1.4;4;AS6;X;9.4;204;6;5
+2021;Buick;Encore (SIDI);SUV: Small;1.4;4;AS6;X;9.7;203;6;7
+2021;Buick;Encore AWD;SUV: Small;1.4;4;AS6;X;10.0;214;5;5
+2021;Buick;Encore AWD (SIDI);SUV: Small;1.4;4;AS6;X;10.2;214;5;7
+2021;Buick;Encore GX;SUV: Small;1.2;3;AV;X;8.4;188;6;7
+2021;Buick;Encore GX AWD;SUV: Small;1.3;3;A9;X;9.0;199;6;7
+2021;Buick;Envision;SUV: Small;2.0;4;AS9;X;10.0;209;5;7
+2021;Buick;Envision AWD;SUV: Small;2.0;4;AS9;X;10.5;222;5;7
+2021;Cadillac;CT4;Compact;2.0;4;AS8;Z;10.1;203;6;6
+2021;Cadillac;CT4;Compact;2.7;4;AS10;Z;11.0;221;5;6
+2021;Cadillac;CT4 AWD;Compact;2.0;4;AS8;Z;10.4;213;5;6
+2021;Cadillac;CT4 AWD;Compact;2.7;4;AS10;Z;11.4;232;5;6
+2021;Cadillac;CT4-V;Compact;2.7;4;AS10;Z;11.5;234;5;6
+2021;Cadillac;CT4-V AWD;Compact;2.7;4;AS10;Z;11.7;239;5;6
+2021;Cadillac;CT5;Mid-size;2.0;4;AS10;Z;10.4;209;5;6
+2021;Cadillac;CT5;Mid-size;3.0;6;AS10;Z;12.3;249;4;5
+2021;Cadillac;CT5 AWD;Mid-size;2.0;4;AS10;Z;11.0;242;5;6
+2021;Cadillac;CT5 AWD;Mid-size;3.0;6;AS10;Z;12.7;260;4;5
+2021;Cadillac;CT5-V;Mid-size;3.0;6;AS10;Z;12.7;256;4;5
+2021;Cadillac;CT5-V AWD;Mid-size;3.0;6;AS10;Z;12.7;260;4;5
+2021;Cadillac;Escalade 4WD;SUV: Standard;3.0;6;A10;D;12.0;277;4;3
+2021;Cadillac;Escalade 4WD;SUV: Standard;6.2;8;A10;Z;16.8;347;2;3
+2021;Cadillac;Escalade 4WD (Without Stop-Start);SUV: Standard;6.2;8;A10;Z;17.5;357;2;3
+2021;Cadillac;XT4;SUV: Small;2.0;4;AS9;Z;9.9;209;5;7
+2021;Cadillac;XT4 AWD;SUV: Small;2.0;4;AS9;Z;10.9;227;5;7
+2021;Cadillac;XT5;SUV: Small;2.0;4;AS9;Z;10.7;222;5;7
+2021;Cadillac;XT5 AWD;SUV: Small;2.0;4;AS9;Z;11.2;237;5;7
+2021;Cadillac;XT5 AWD;SUV: Small;3.6;6;AS9;X;12.9;263;4;6
+2021;Cadillac;XT6 AWD;SUV: Small;2.0;4;AS9;Z;11.2;239;5;7
+2021;Cadillac;XT6 AWD;SUV: Small;3.6;6;AS9;X;13.1;269;4;6
+2021;Chevrolet;Blazer;SUV: Small;2.0;4;A9;X;10.6;221;5;7
+2021;Chevrolet;Blazer;SUV: Small;2.5;4;A9;X;11.3;238;5;5
+2021;Chevrolet;Blazer;SUV: Small;3.6;6;A9;X;12.0;247;4;6
+2021;Chevrolet;Blazer AWD;SUV: Small;2.0;4;A9;X;10.6;227;5;7
+2021;Chevrolet;Blazer AWD;SUV: Small;3.6;6;A9;X;12.5;256;4;6
+2021;Chevrolet;Camaro;Subcompact;2.0;4;AS8;Z;10.9;222;5;5
+2021;Chevrolet;Camaro;Subcompact;2.0;4;M6;Z;12.6;247;4;5
+2021;Chevrolet;Camaro;Subcompact;3.6;6;AS10;X;12.8;251;4;6
+2021;Chevrolet;Camaro;Subcompact;3.6;6;M6;X;14.4;281;4;6
+2021;Chevrolet;Camaro SS;Subcompact;6.2;8;AS10;Z;14.6;281;4;1
+2021;Chevrolet;Camaro SS;Subcompact;6.2;8;M6;Z;14.9;296;3;1
+2021;Chevrolet;Camaro ZL1;Subcompact;6.2;8;AS10;Z;18.3;355;2;1
+2021;Chevrolet;Camaro ZL1;Subcompact;6.2;8;M6;Z;17.2;349;2;1
+2021;Chevrolet;Colorado;Pickup truck: Small;2.5;4;A6;X;12.2;257;4;6
+2021;Chevrolet;Colorado;Pickup truck: Small;2.8;4;A6;D;11.8;294;3;3
+2021;Chevrolet;Colorado;Pickup truck: Small;3.6;6;A8;X;12.9;263;4;6
+2021;Chevrolet;Colorado 4WD;Pickup truck: Small;2.5;4;A6;X;12.7;268;4;6
+2021;Chevrolet;Colorado 4WD;Pickup truck: Small;2.8;4;A6;D;12.2;294;3;3
+2021;Chevrolet;Colorado 4WD;Pickup truck: Small;3.6;6;A8;X;14.0;284;3;6
+2021;Chevrolet;Colorado ZR2 4WD;Pickup truck: Small;2.8;4;A6;D;13.3;326;3;3
+2021;Chevrolet;Colorado ZR2 4WD;Pickup truck: Small;3.6;6;A8;X;15.0;329;3;6
+2021;Chevrolet;Corvette;Two-seater;6.2;8;AS8;Z;15.4;290;3;3
+2021;Chevrolet;Equinox;SUV: Small;1.5;4;A6;X;8.9;198;6;7
+2021;Chevrolet;Equinox AWD;SUV: Small;1.5;4;A6;X;9.4;207;6;7
+2021;Chevrolet;Malibu;Mid-size;1.5;4;AV;X;8.2;175;7;7
+2021;Chevrolet;Malibu;Mid-size;2.0;4;A9;Z;10.7;213;5;5
+2021;Chevrolet;Silverado;Pickup truck: Standard;2.7;4;A8;X;11.9;263;4;6
+2021;Chevrolet;Silverado Custom/WT;Pickup truck: Standard;2.7;4;A8;X;11.9;263;4;6
+2021;Chevrolet;Silverado;Pickup truck: Standard;3.0;6;A10;D;10.2;238;5;3
+2021;Chevrolet;Silverado;Pickup truck: Standard;4.3;6;A6;X;15.1;318;3;6
+2021;Chevrolet;Silverado;Pickup truck: Standard;5.3;8;A6;X;15.8;325;3;5
+2021;Chevrolet;Silverado (Without AFM);Pickup truck: Standard;5.3;8;A6;X;16.7;336;2;5
+2021;Chevrolet;Silverado FFV;Pickup truck: Standard;5.3;8;A6;X;16.2;340;2;3
+2021;Chevrolet;Silverado FFV;Pickup truck: Standard;5.3;8;A6;E;21.5;315;3;3
+2021;Chevrolet;Silverado;Pickup truck: Standard;5.3;8;A8;X;13.9;286;3;5
+2021;Chevrolet;Silverado (Without DFM);Pickup truck: Standard;5.3;8;A8;X;15.9;319;3;5
+2021;Chevrolet;Silverado 4WD;Pickup truck: Standard;2.7;4;A8;X;12.5;275;4;6
+2021;Chevrolet;Silverado 4WD Custom/WT;Pickup truck: Standard;2.7;4;A8;X;12.5;275;4;6
+2021;Chevrolet;Silverado 4WD;Pickup truck: Standard;3.0;6;A10;D;10.6;268;4;3
+2021;Chevrolet;Silverado 4WD;Pickup truck: Standard;4.3;6;A6;X;15.8;329;3;6
+2021;Chevrolet;Silverado 4WD Trail Boss;Pickup truck: Standard;4.3;6;A6;X;16.3;347;2;6
+2021;Chevrolet;Silverado 4WD;Pickup truck: Standard;5.3;8;A6;X;16.0;331;3;5
+2021;Chevrolet;Silverado 4WD (Without AFM);Pickup truck: Standard;5.3;8;A6;X;17.3;348;2;5
+2021;Chevrolet;Silverado 4WD FFV;Pickup truck: Standard;5.3;8;A6;X;16.5;347;2;3
+2021;Chevrolet;Silverado 4WD FFV;Pickup truck: Standard;5.3;8;A6;E;22.0;326;3;3
+2021;Chevrolet;Silverado 4WD Trail Boss;Pickup truck: Standard;5.3;8;A6;X;16.5;350;2;5
+2021;Chevrolet;Silverado 4WD Trail Boss (Without AFM);Pickup truck: Standard;5.3;8;A6;X;17.8;368;2;5
+2021;Chevrolet;Silverado 4WD;Pickup truck: Standard;5.3;8;A8;X;14.4;299;3;5
+2021;Chevrolet;Silverado 4WD (Without DFM);Pickup truck: Standard;5.3;8;A8;X;16.8;339;2;5
+2021;Chevrolet;Silverado 4WD;Pickup truck: Standard;5.3;8;A10;X;14.3;298;3;5
+2021;Chevrolet;Silverado 4WD (Without Stop-Start);Pickup truck: Standard;5.3;8;A10;X;15.3;313;3;5
+2021;Chevrolet;Silverado 4WD Trail Boss;Pickup truck: Standard;5.3;8;A10;X;14.7;307;3;5
+2021;Chevrolet;Silverado 4WD Trail Boss (Without Stop-Start);Pickup truck: Standard;5.3;8;A10;X;15.6;321;3;5
+2021;Chevrolet;Silverado 4WD;Pickup truck: Standard;6.2;8;A10;Z;14.7;306;3;3
+2021;Chevrolet;Silverado 4WD (Without Stop-Start);Pickup truck: Standard;6.2;8;A10;Z;15.6;324;3;3
+2021;Chevrolet;Silverado 4WD Trail Boss;Pickup truck: Standard;6.2;8;A10;Z;15.7;332;3;3
+2021;Chevrolet;Silverado 4WD Trail Boss (Without Stop-Start);Pickup truck: Standard;6.2;8;A10;Z;16.8;352;2;3
+2021;Chevrolet;Spark;Subcompact;1.4;4;AV;X;7.7;165;7;5
+2021;Chevrolet;Spark;Subcompact;1.4;4;M5;X;8.0;170;7;5
+2021;Chevrolet;Suburban;SUV: Standard;3.0;6;A10;D;11.3;272;4;3
+2021;Chevrolet;Suburban;SUV: Standard;5.3;8;A10;X;14.3;309;3;5
+2021;Chevrolet;Suburban (Without Stop-Start);SUV: Standard;5.3;8;A10;X;15.3;325;3;5
+2021;Chevrolet;Suburban 4WD;SUV: Standard;3.0;6;A10;D;12.0;277;4;3
+2021;Chevrolet;Suburban 4WD;SUV: Standard;5.3;8;A10;X;15.3;328;3;5
+2021;Chevrolet;Suburban 4WD (Without Stop-Start);SUV: Standard;5.3;8;A10;X;16.0;341;2;5
+2021;Chevrolet;Suburban 4WD;SUV: Standard;6.2;8;A10;Z;16.8;347;2;3
+2021;Chevrolet;Suburban 4WD (Without Stop-Start);SUV: Standard;6.2;8;A10;Z;17.5;357;2;3
+2021;Chevrolet;Tahoe;SUV: Standard;3.0;6;A10;D;11.0;263;4;3
+2021;Chevrolet;Tahoe;SUV: Standard;5.3;8;A10;X;14.3;309;3;5
+2021;Chevrolet;Tahoe (Without Stop-Start);SUV: Standard;5.3;8;A10;X;15.3;325;3;5
+2021;Chevrolet;Tahoe 4WD;SUV: Standard;3.0;6;A10;D;12.0;277;4;3
+2021;Chevrolet;Tahoe 4WD;SUV: Standard;5.3;8;A10;X;14.8;317;3;5
+2021;Chevrolet;Tahoe 4WD (Without Stop-Start);SUV: Standard;5.3;8;A10;X;15.5;327;3;5
+2021;Chevrolet;Tahoe 4WD;SUV: Standard;6.2;8;A10;Z;16.8;347;2;3
+2021;Chevrolet;Tahoe 4WD (Without Stop-Start);SUV: Standard;6.2;8;A10;Z;17.5;357;2;3
+2021;Chevrolet;Trailblazer;SUV: Small;1.2;3;AV;X;8.4;188;6;7
+2021;Chevrolet;Trailblazer;SUV: Small;1.3;3;AV;X;8.0;179;7;7
+2021;Chevrolet;Trailblazer AWD;SUV: Small;1.3;3;A9;X;8.9;196;6;7
+2021;Chevrolet;Traverse;SUV: Standard;3.6;6;A9;X;13.0;261;4;6
+2021;Chevrolet;Traverse AWD;SUV: Standard;3.6;6;A9;X;13.6;277;4;6
+2021;Chevrolet;Trax;SUV: Small;1.4;4;AS6;X;9.1;196;6;5
+2021;Chevrolet;Trax (SIDI);SUV: Small;1.4;4;AS6;X;9.7;203;6;7
+2021;Chevrolet;Trax 4WD;SUV: Small;1.4;4;AS6;X;10.0;214;5;5
+2021;Chevrolet;Trax 4WD (SIDI);SUV: Small;1.4;4;AS6;X;10.2;214;5;7
+2021;Chrysler;300;Full-size;3.6;6;A8;X;12.4;242;5;3
+2021;Chrysler;300;Full-size;5.7;8;A8;X;14.7;289;3;3
+2021;Chrysler;300 AWD;Full-size;3.6;6;A8;X;12.8;258;4;3
+2021;Chrysler;Grand Caravan;Minivan;3.6;6;A9;X;12.4;249;4;7
+2021;Chrysler;Pacifica;Minivan;3.6;6;A9;X;12.4;249;4;7
+2021;Chrysler;Pacifica AWD;Minivan;3.6;6;A9;X;14.1;279;4;7
+2021;Dodge;Challenger;Mid-size;3.6;6;A8;X;12.4;242;5;3
+2021;Dodge;Challenger (MDS);Mid-size;5.7;8;A8;X;14.7;289;3;3
+2021;Dodge;Challenger;Mid-size;5.7;8;M6;Z;15.6;307;3;1
+2021;Dodge;Challenger (MDS);Mid-size;6.4;8;A8;Z;15.9;306;3;1
+2021;Dodge;Challenger;Mid-size;6.4;8;M6;Z;16.7;325;3;1
+2021;Dodge;Challenger AWD;Mid-size;3.6;6;A8;X;12.8;258;4;3
+2021;Dodge;Challenger Widebody (MDS);Mid-size;6.4;8;A8;Z;15.9;306;3;1
+2021;Dodge;Challenger Widebody;Mid-size;6.4;8;M6;Z;16.7;325;3;1
+2021;Dodge;Challenger SRT Hellcat;Mid-size;6.2;8;A8;Z;17.6;339;2;1
+2021;Dodge;Challenger SRT Hellcat;Mid-size;6.2;8;M6;Z;18.1;352;2;1
+2021;Dodge;Challenger SRT Hellcat Widebody;Mid-size;6.2;8;A8;Z;18.6;359;2;1
+2021;Dodge;Challenger SRT Hellcat Widebody;Mid-size;6.2;8;M6;Z;18.1;352;2;1
+2021;Dodge;Charger;Full-size;3.6;6;A8;X;12.4;242;5;3
+2021;Dodge;Charger (MDS);Full-size;5.7;8;A8;X;14.7;289;3;3
+2021;Dodge;Charger (MDS);Full-size;6.4;8;A8;Z;15.9;306;3;1
+2021;Dodge;Charger AWD;Full-size;3.6;6;A8;X;12.8;258;4;3
+2021;Dodge;Charger Widebody (MDS);Full-size;6.4;8;A8;Z;15.9;306;3;1
+2021;Dodge;Charger SRT Hellcat Widebody;Full-size;6.2;8;A8;Z;19.0;368;2;1
+2021;Dodge;Durango AWD;SUV: Standard;3.6;6;A8;X;12.7;265;4;7
+2021;Dodge;Durango AWD;SUV: Standard;5.7;8;A8;X;16.7;331;3;5
+2021;Dodge;Durango AWD SRT;SUV: Standard;6.4;8;A8;Z;18.3;363;2;1
+2021;Dodge;Durango AWD SRT Hellcat;SUV: Standard;6.2;8;A8;Z;20.5;410;1;1
+2021;FIAT;500X AWD;SUV: Small;1.3;4;A9;X;10.0;221;5;6
+2021;Ford;Bronco 4WD;SUV: Small;2.3;4;AS10;X;11.7;264;4;5
+2021;Ford;Bronco 4WD;SUV: Small;2.3;4;M7;X;11.6;265;4;5
+2021;Ford;Bronco 4WD;SUV: Small;2.7;6;AS10;X;12.8;287;3;6
+2021;Ford;Bronco Badlands 4WD;SUV: Small;2.3;4;AS10;X;13.5;318;3;5
+2021;Ford;Bronco Badlands 4WD;SUV: Small;2.3;4;M7;X;14.7;330;3;5
+2021;Ford;Bronco Badlands 4WD;SUV: Small;2.7;6;AS10;X;13.7;315;3;6
+2021;Ford;Bronco Black Diamond 4WD;SUV: Small;2.3;4;AS10;X;13.1;308;3;5
+2021;Ford;Bronco Black Diamond 4WD;SUV: Small;2.3;4;M7;X;13.8;310;3;5
+2021;Ford;Bronco Sasquatch 4WD;SUV: Small;2.3;4;AS10;X;13.1;308;3;5
+2021;Ford;Bronco Sasquatch 4WD;SUV: Small;2.7;6;AS10;X;14.0;327;3;6
+2021;Ford;Bronco Sport 4WD;SUV: Small;1.5;3;A8;X;9.3;209;5;7
+2021;Ford;Bronco Sport 4WD;SUV: Small;2.0;4;AS8;X;11.1;238;5;5
+2021;Ford;EcoSport;SUV: Small;1.0;3;AS6;X;8.6;197;6;5
+2021;Ford;EcoSport AWD;SUV: Small;2.0;4;AS6;X;10.2;217;5;5
+2021;Ford;Edge;SUV: Small;2.0;4;A8;X;11.2;229;5;5
+2021;Ford;Edge AWD;SUV: Small;2.0;4;A8;X;11.5;236;5;5
+2021;Ford;Edge AWD;SUV: Small;2.0;4;AS8;X;11.5;237;5;5
+2021;Ford;Edge AWD;SUV: Small;2.7;6;AS8;X;12.6;262;4;5
+2021;Ford;Escape;SUV: Small;1.5;3;A8;X;8.5;182;6;7
+2021;Ford;Escape AWD;SUV: Small;1.5;3;A8;X;9.0;198;6;7
+2021;Ford;Escape AWD;SUV: Small;2.0;4;A8;X;10.4;213;5;5
+2021;Ford;Escape Hybrid;SUV: Small;2.5;4;AV;X;5.4;136;8;7
+2021;Ford;Escape Hybrid AWD;SUV: Small;2.5;4;AV;X;5.5;139;8;7
+2021;Ford;Expedition 4X4;SUV: Standard;3.5;6;AS10;X;14.1;295;3;5
+2021;Ford;Expedition MAX 4X4;SUV: Standard;3.5;6;AS10;X;14.7;308;3;5
+2021;Ford;Explorer AWD;SUV: Standard;2.3;4;A10;X;11.7;242;5;5
+2021;Ford;Explorer AWD;SUV: Standard;2.3;4;AS10;X;11.7;242;5;5
+2021;Ford;Explorer AWD;SUV: Standard;3.0;6;AS10;X;13.4;277;4;5
+2021;Ford;Explorer Timberline AWD;SUV: Standard;2.3;4;AS10;X;12.2;268;4;5
+2021;Ford;Explorer Hybrid AWD;SUV: Standard;3.3;6;AS10;X;10.1;225;5;5
+2021;Ford;F-150;Pickup truck: Standard;2.7;6;AS10;X;12.0;253;4;6
+2021;Ford;F-150 FFV;Pickup truck: Standard;3.3;6;AS10;X;12.0;259;4;6
+2021;Ford;F-150 FFV;Pickup truck: Standard;3.3;6;AS10;E;16.6;242;5;6
+2021;Ford;F-150;Pickup truck: Standard;3.5;6;AS10;X;13.1;274;4;6
+2021;Ford;F-150 FFV;Pickup truck: Standard;5.0;8;AS10;X;14.0;287;3;5
+2021;Ford;F-150 FFV;Pickup truck: Standard;5.0;8;AS10;E;20.9;291;3;5
+2021;Ford;F-150 FFV (Without Stop-Start);Pickup truck: Standard;5.0;8;AS10;X;14.5;296;3;5
+2021;Ford;F-150 FFV (Without Stop-Start);Pickup truck: Standard;5.0;8;AS10;E;19.8;284;3;5
+2021;Ford;F-150 4X4;Pickup truck: Standard;2.7;6;AS10;X;12.8;271;4;6
+2021;Ford;F-150 4X4 (Without Stop-Start);Pickup truck: Standard;2.7;6;AS10;X;13.5;280;4;6
+2021;Ford;F-150 4X4;Pickup truck: Standard;3.0;6;AS10;D;11.9;287;3;1
+2021;Ford;F-150 FFV 4X4;Pickup truck: Standard;3.3;6;AS10;X;12.5;275;4;6
+2021;Ford;F-150 FFV 4X4;Pickup truck: Standard;3.3;6;AS10;E;17.2;252;4;6
+2021;Ford;F-150 4X4;Pickup truck: Standard;3.5;6;AS10;X;13.5;282;4;6
+2021;Ford;F-150 FFV 4X4;Pickup truck: Standard;5.0;8;AS10;X;14.8;307;3;5
+2021;Ford;F-150 FFV 4X4;Pickup truck: Standard;5.0;8;AS10;E;21.5;303;3;5
+2021;Ford;F-150 FFV 4X4 (Without Stop-Start);Pickup truck: Standard;5.0;8;AS10;X;15.4;315;3;5
+2021;Ford;F-150 FFV 4X4 (Without Stop-Start);Pickup truck: Standard;5.0;8;AS10;E;21.0;301;3;5
+2021;Ford;F-150 Raptor 4X4;Pickup truck: Standard;3.5;6;AS10;X;15.8;344;2;6
+2021;Ford;F-150 Raptor 4X4 (Without Stop-Start);Pickup truck: Standard;3.5;6;AS10;X;16.8;357;2;6
+2021;Ford;F-150 Raptor 37 4X4;Pickup truck: Standard;3.5;6;AS10;X;16.0;359;2;6
+2021;Ford;F-150 Raptor 37 4X4 (Without Stop-Start);Pickup truck: Standard;3.5;6;AS10;X;16.6;370;2;6
+2021;Ford;F-150 Tremor 4X4;Pickup truck: Standard;3.5;6;AS10;X;14.3;310;3;6
+2021;Ford;F-150 Tremor 4X4 (Without Stop-Start);Pickup truck: Standard;3.5;6;AS10;X;14.7;313;3;6
+2021;Ford;F-150 Hybrid;Pickup truck: Standard;3.5;6;AS10;X;9.5;217;5;5
+2021;Ford;F-150 Hybrid 4X4;Pickup truck: Standard;3.5;6;AS10;X;9.8;229;5;5
+2021;Ford;GT;Two-seater;3.5;6;AM7;Z;19.8;393;1;3
+2021;Ford;Mustang;Subcompact;2.3;4;A10;X;11.0;221;5;5
+2021;Ford;Mustang;Subcompact;2.3;4;AS10;X;11.0;222;5;5
+2021;Ford;Mustang (High Performance);Subcompact;2.3;4;AS10;X;11.7;242;5;5
+2021;Ford;Mustang;Subcompact;2.3;4;M6;X;11.4;233;5;5
+2021;Ford;Mustang (High Performance);Subcompact;2.3;4;M6;X;11.9;246;4;5
+2021;Ford;Mustang;Subcompact;5.0;8;AS10;X;15.3;300;3;3
+2021;Ford;Mustang;Subcompact;5.0;8;M6;X;16.2;314;3;3
+2021;Ford;Mustang Convertible;Subcompact;2.3;4;A10;X;12.0;244;5;5
+2021;Ford;Mustang Convertible;Subcompact;2.3;4;AS10;X;11.9;241;5;5
+2021;Ford;Mustang Convertible (High Performance);Subcompact;2.3;4;AS10;X;12.1;251;4;5
+2021;Ford;Mustang Convertible;Subcompact;2.3;4;M6;X;11.8;244;5;5
+2021;Ford;Mustang Convertible (High Performance);Subcompact;2.3;4;M6;X;12.4;258;4;5
+2021;Ford;Mustang Convertible;Subcompact;5.0;8;AS10;X;15.8;312;3;3
+2021;Ford;Mustang Mach 1;Subcompact;5.0;8;AS10;X;15.3;303;3;3
+2021;Ford;Mustang Mach 1;Subcompact;5.0;8;M6;X;16.6;325;3;3
+2021;Ford;Ranger 4WD;Pickup truck: Standard;2.3;4;AS10;X;11.8;256;4;5
+2021;Ford;Ranger 4WD Tremor;Pickup truck: Standard;2.3;4;AS10;X;12.1;287;3;3
+2021;Ford;Shelby GT500 Mustang;Subcompact;5.2;8;AM7;Z;19.9;393;1;3
+2021;Ford;T-150 Wagon FFV;Van: Passenger;3.5;6;AS10;X;16.2;341;2;1
+2021;Ford;T-150 Wagon FFV;Van: Passenger;3.5;6;AS10;E;21.6;321;3;1
+2021;Ford;T-150 Wagon FFV 4WD;Van: Passenger;3.5;6;AS10;X;16.8;354;2;1
+2021;Ford;T-150 Wagon FFV 4WD;Van: Passenger;3.5;6;AS10;E;22.3;331;3;1
+2021;Ford;Transit Connect Van;Special purpose vehicle;2.0;4;AS8;X;9.8;217;5;6
+2021;Ford;Transit Connect Van FFV;Special purpose vehicle;2.0;4;AS8;X;9.8;217;5;5
+2021;Ford;Transit Connect Van FFV;Special purpose vehicle;2.0;4;AS8;E;13.3;209;5;5
+2021;Ford;Transit Connect Van;Special purpose vehicle;2.5;4;AS6;X;12.0;247;4;5
+2021;Ford;Transit Connect Wagon LWB;Special purpose vehicle;2.0;4;AS8;X;9.9;214;5;6
+2021;Ford;Transit Connect Wagon LWB FFV;Special purpose vehicle;2.0;4;AS8;X;9.9;214;5;5
+2021;Ford;Transit Connect Wagon LWB FFV;Special purpose vehicle;2.0;4;AS8;E;13.7;208;6;5
+2021;Ford;Transit Connect Wagon LWB;Special purpose vehicle;2.5;4;AS6;X;12.1;251;4;5
+2021;Genesis;G70;Compact;2.0;4;M6;Z;12.8;255;4;3
+2021;Genesis;G70 AWD;Compact;2.0;4;AS8;Z;11.4;236;5;3
+2021;Genesis;G70 AWD;Compact;3.3;6;AS8;Z;14.1;284;3;3
+2021;Genesis;G80 AWD;Full-size;2.5;4;AS8;Z;10.8;225;5;5
+2021;Genesis;G80 AWD;Full-size;3.5;6;AS8;Z;12.9;262;4;5
+2021;Genesis;G90 AWD;Full-size;5.0;8;AS8;Z;15.0;303;3;5
+2021;Genesis;GV80 AWD;SUV: Standard;2.5;4;AS8;Z;11.3;248;4;5
+2021;Genesis;GV80 AWD;SUV: Standard;3.5;6;AS8;Z;12.9;279;4;5
+2021;GMC;Acadia;SUV: Standard;2.0;4;A9;X;10.6;221;5;7
+2021;GMC;Acadia;SUV: Standard;2.5;4;A9;X;11.3;238;5;5
+2021;GMC;Acadia;SUV: Standard;3.6;6;A9;X;12.2;250;4;6
+2021;GMC;Acadia AWD;SUV: Standard;2.0;4;A9;X;10.6;227;5;7
+2021;GMC;Acadia AWD;SUV: Standard;3.6;6;A9;X;12.5;256;4;6
+2021;GMC;Canyon;Pickup truck: Small;2.5;4;A6;X;12.2;257;4;6
+2021;GMC;Canyon;Pickup truck: Small;2.8;4;A6;D;11.8;294;3;3
+2021;GMC;Canyon;Pickup truck: Small;3.6;6;A8;X;12.9;263;4;6
+2021;GMC;Canyon 4WD;Pickup truck: Small;2.5;4;A6;X;12.7;268;4;6
+2021;GMC;Canyon 4WD;Pickup truck: Small;2.8;4;A6;D;12.2;294;3;3
+2021;GMC;Canyon 4WD;Pickup truck: Small;3.6;6;A8;X;14.9;306;3;6
+2021;GMC;Sierra;Pickup truck: Standard;2.7;4;A8;X;11.9;263;4;6
+2021;GMC;Sierra WT;Pickup truck: Standard;2.7;4;A8;X;11.9;263;4;6
+2021;GMC;Sierra;Pickup truck: Standard;3.0;6;A10;D;10.2;245;5;3
+2021;GMC;Sierra;Pickup truck: Standard;4.3;6;A6;X;15.1;318;3;6
+2021;GMC;Sierra;Pickup truck: Standard;5.3;8;A6;X;15.8;325;3;5
+2021;GMC;Sierra (Without AFM);Pickup truck: Standard;5.3;8;A6;X;16.7;336;2;5
+2021;GMC;Sierra FFV;Pickup truck: Standard;5.3;8;A6;X;16.2;340;2;3
+2021;GMC;Sierra FFV;Pickup truck: Standard;5.3;8;A6;E;21.5;315;3;3
+2021;GMC;Sierra;Pickup truck: Standard;5.3;8;A8;X;14.0;288;3;5
+2021;GMC;Sierra (Without DFM);Pickup truck: Standard;5.3;8;A8;X;16.0;321;3;5
+2021;GMC;Sierra 4WD;Pickup truck: Standard;2.7;4;A8;X;13.0;288;3;6
+2021;GMC;Sierra 4WD WT;Pickup truck: Standard;2.7;4;A8;X;13.3;295;3;6
+2021;GMC;Sierra 4WD;Pickup truck: Standard;3.0;6;A10;D;10.6;268;4;3
+2021;GMC;Sierra 4WD AT4;Pickup truck: Standard;3.0;6;A10;D;10.6;268;4;3
+2021;GMC;Sierra 4WD;Pickup truck: Standard;4.3;6;A6;X;15.8;329;3;6
+2021;GMC;Sierra 4WD;Pickup truck: Standard;5.3;8;A6;X;16.0;331;3;5
+2021;GMC;Sierra 4WD (Without AFM);Pickup truck: Standard;5.3;8;A6;X;17.3;348;2;5
+2021;GMC;Sierra 4WD FFV;Pickup truck: Standard;5.3;8;A6;X;16.5;347;2;3
+2021;GMC;Sierra 4WD FFV;Pickup truck: Standard;5.3;8;A6;E;22.0;326;3;3
+2021;GMC;Sierra 4WD AT4;Pickup truck: Standard;5.3;8;A6;X;16.7;355;2;5
+2021;GMC;Sierra 4WD;Pickup truck: Standard;5.3;8;A8;X;15.2;313;3;5
+2021;GMC;Sierra 4WD (Without DFM);Pickup truck: Standard;5.3;8;A8;X;17.4;349;2;5
+2021;GMC;Sierra 4WD AT4;Pickup truck: Standard;5.3;8;A8;X;15.2;312;3;5
+2021;GMC;Sierra 4WD AT4 (Without DFM);Pickup truck: Standard;5.3;8;A8;X;17.4;348;2;5
+2021;GMC;Sierra 4WD;Pickup truck: Standard;5.3;8;A10;X;14.3;298;3;5
+2021;GMC;Sierra 4WD (Without Stop-Start);Pickup truck: Standard;5.3;8;A10;X;15.3;313;3;5
+2021;GMC;Sierra 4WD AT4;Pickup truck: Standard;5.3;8;A10;X;14.7;307;3;5
+2021;GMC;Sierra 4WD AT4 (Without Stop-Start);Pickup truck: Standard;5.3;8;A10;X;15.6;321;3;5
+2021;GMC;Sierra 4WD;Pickup truck: Standard;6.2;8;A10;Z;15.1;316;3;3
+2021;GMC;Sierra 4WD (Without Stop-Start);Pickup truck: Standard;6.2;8;A10;Z;16.2;335;3;3
+2021;GMC;Sierra 4WD AT4;Pickup truck: Standard;6.2;8;A10;Z;15.7;332;3;3
+2021;GMC;Sierra 4WD AT4 (Without Stop-Start);Pickup truck: Standard;6.2;8;A10;Z;16.8;352;2;3
+2021;GMC;Terrain;SUV: Small;1.5;4;A9;X;9.2;201;6;7
+2021;GMC;Terrain AWD;SUV: Small;1.5;4;A9;X;9.6;211;5;7
+2021;GMC;Yukon;SUV: Standard;3.0;6;A10;D;11.3;272;4;3
+2021;GMC;Yukon;SUV: Standard;5.3;8;A10;X;14.3;309;3;5
+2021;GMC;Yukon (Without Stop-Start);SUV: Standard;5.3;8;A10;X;15.3;325;3;5
+2021;GMC;Yukon 4WD;SUV: Standard;3.0;6;A10;D;12.0;277;4;3
+2021;GMC;Yukon 4WD;SUV: Standard;5.3;8;A10;X;14.8;317;3;5
+2021;GMC;Yukon 4WD (Without Stop-Start);SUV: Standard;5.3;8;A10;X;15.5;327;3;5
+2021;GMC;Yukon 4WD;SUV: Standard;6.2;8;A10;Z;16.8;347;2;3
+2021;GMC;Yukon 4WD (Without Stop-Start);SUV: Standard;6.2;8;A10;Z;17.5;357;2;3
+2021;GMC;Yukon XL;SUV: Standard;3.0;6;A10;D;11.3;272;4;3
+2021;GMC;Yukon XL;SUV: Standard;5.3;8;A10;X;14.3;309;3;5
+2021;GMC;Yukon XL (Without Stop-Start);SUV: Standard;5.3;8;A10;X;15.3;325;3;5
+2021;GMC;Yukon XL 4WD;SUV: Standard;3.0;6;A10;D;12.0;277;4;3
+2021;GMC;Yukon XL 4WD;SUV: Standard;5.3;8;A10;X;15.3;328;3;5
+2021;GMC;Yukon XL 4WD (Without Stop-Start);SUV: Standard;5.3;8;A10;X;16.0;341;2;5
+2021;GMC;Yukon XL 4WD;SUV: Standard;6.2;8;A10;Z;16.8;347;2;3
+2021;GMC;Yukon XL 4WD (Without Stop-Start);SUV: Standard;6.2;8;A10;Z;17.5;357;2;3
+2021;Honda;Accord;Full-size;1.5;4;AV;X;7.8;168;7;7
+2021;Honda;Accord Sport/Touring;Full-size;1.5;4;AV7;X;8.1;176;7;7
+2021;Honda;Accord Sport/Touring;Full-size;2.0;4;AS10;X;10.4;211;5;7
+2021;Honda;Accord Hybrid;Full-size;2.0;4;AV;X;5.0;117;9;7
+2021;Honda;Accord Hybrid Sport/Touring;Full-size;2.0;4;AV;X;5.3;129;9;7
+2021;Honda;Civic Hatchback;Full-size;1.5;4;M6;X;8.1;171;7;3
+2021;Honda;Civic Hatchback Sport;Full-size;1.5;4;AV7;Z;8.0;172;7;3
+2021;Honda;Civic Hatchback Sport;Full-size;1.5;4;M6;Z;8.1;171;7;3
+2021;Honda;Civic Sedan;Mid-size;1.5;4;AV7;X;7.8;165;7;3
+2021;Honda;Civic Sedan;Mid-size;2.0;4;AV;X;7.9;167;7;3
+2021;Honda;Civic Sedan;Mid-size;2.0;4;AV7;X;8.2;172;7;3
+2021;Honda;Civic Type R;Full-size;2.0;4;M6;Z;10.5;223;5;3
+2021;Honda;CR-V;SUV: Small;1.5;4;AV;X;8.3;180;7;6
+2021;Honda;CR-V AWD;SUV: Small;1.5;4;AV;X;8.7;189;6;6
+2021;Honda;HR-V;Station wagon: Small;1.8;4;AV;X;8.4;181;6;5
+2021;Honda;HR-V AWD;Station wagon: Small;1.8;4;AV;X;8.8;193;6;5
+2021;Honda;HR-V AWD;Station wagon: Small;1.8;4;AV7;X;9.1;200;6;5
+2021;Honda;Insight EX;Mid-size;1.5;4;AV;X;4.6;115;9;7
+2021;Honda;Insight Touring;Compact;1.5;4;AV;X;4.6;115;9;7
+2021;Honda;Odyssey;Minivan;3.5;6;AS10;X;12.2;248;4;5
+2021;Honda;Passport AWD;SUV: Small;3.5;6;AS9;X;12.5;265;4;3
+2021;Honda;Pilot AWD;SUV: Small;3.5;6;AS9;X;12.4;256;4;3
+2021;Honda;Ridgeline AWD;Pickup truck: Standard;3.5;6;AS9;X;12.8;271;4;3
+2021;Hyundai;Elantra;Mid-size;1.6;4;AM7;X;8.4;179;7;5
+2021;Hyundai;Elantra;Mid-size;2.0;4;AV1;X;7.5;157;7;5
+2021;Hyundai;Elantra (ISG);Mid-size;2.0;4;AV1;X;7.1;152;8;5
+2021;Hyundai;Elantra;Mid-size;2.0;4;M6;X;9.1;185;6;5
+2021;Hyundai;Elantra Hybrid Blue;Mid-size;1.6;4;AM6;X;4.5;103;10;7
+2021;Hyundai;IONIQ;Full-size;1.6;4;AM6;X;4.3;99;10;7
+2021;Hyundai;IONIQ Blue;Full-size;1.6;4;AM6;X;4.0;94;10;7
+2021;Hyundai;Kona;SUV: Small;2.0;4;AS6;X;8.6;187;6;5
+2021;Hyundai;Kona AWD;SUV: Small;1.6;4;AM7;X;9.0;201;6;5
+2021;Hyundai;Kona AWD;SUV: Small;2.0;4;AS6;X;9.2;202;6;5
+2021;Hyundai;Palisade;SUV: Standard;3.8;6;AS8;X;11.9;250;4;5
+2021;Hyundai;Palisade AWD;SUV: Standard;3.8;6;AS8;X;12.3;265;4;5
+2021;Hyundai;Santa Fe;SUV: Small;2.5;4;AS8;X;9.6;214;5;7
+2021;Hyundai;Santa Fe AWD;SUV: Small;2.5;4;AM8;X;11.0;233;5;5
+2021;Hyundai;Santa Fe AWD;SUV: Small;2.5;4;AS8;X;10.6;235;5;7
+2021;Hyundai;Santa Fe Hybrid;SUV: Small;1.6;4;AM6;X;7.1;176;7;7
+2021;Hyundai;Sonata;Full-size;1.6;4;AS8;X;8.8;182;6;5
+2021;Hyundai;Sonata;Full-size;2.5;4;AM8;X;10.1;208;6;5
+2021;Hyundai;Sonata;Full-size;2.5;4;AS8;X;8.8;182;6;7
+2021;Hyundai;Sonata Hybrid;Full-size;2.0;4;AM6;X;5.3;117;9;7
+2021;Hyundai;Tucson;SUV: Small;2.0;4;AS6;X;10.0;216;5;5
+2021;Hyundai;Tucson AWD;SUV: Small;2.0;4;AS6;X;10.8;239;5;5
+2021;Hyundai;Tucson AWD;SUV: Small;2.4;4;AS6;X;11.0;241;5;5
+2021;Hyundai;Veloster N;Compact;2.0;4;AM8;Z;12.0;248;4;3
+2021;Hyundai;Veloster N;Compact;2.0;4;M6;Z;10.6;226;5;3
+2021;Hyundai;Venue;Mid-size;1.6;4;AV1;X;7.9;178;7;5
+2021;Hyundai;Venue;Mid-size;1.6;4;M6;X;8.6;184;6;5
+2021;Infiniti;Q50 AWD;Mid-size;3.0;6;AS7;Z;12.5;254;4;3
+2021;Infiniti;Q50 AWD Red Sport;Mid-size;3.0;6;AS7;Z;12.5;261;4;3
+2021;Infiniti;Q60 AWD;Subcompact;3.0;6;AS7;Z;12.3;252;4;3
+2021;Infiniti;Q60 AWD Red Sport;Subcompact;3.0;6;AS7;Z;12.5;259;4;3
+2021;Infiniti;QX50 AWD;SUV: Small;2.0;4;AV8;Z;10.8;229;5;6
+2021;Infiniti;QX80 4WD;SUV: Standard;5.6;8;AS7;Z;17.6;356;2;3
+2021;Jaguar;E-PACE P250;SUV: Small;2.0;4;AS9;Z;11.5;247;4;7
+2021;Jaguar;E-PACE P300;SUV: Small;2.0;4;AS9;Z;11.3;245;5;7
+2021;Jaguar;F-PACE P250;SUV: Small;2.0;4;AS8;Z;10.7;227;5;7
+2021;Jaguar;F-PACE P340;SUV: Small;3.0;6;AS8;Z;12.0;250;4;7
+2021;Jaguar;F-PACE P400;SUV: Small;3.0;6;AS8;Z;12.1;252;4;7
+2021;Jaguar;F-PACE SVR;SUV: Small;5.0;8;AS8;Z;15.4;316;3;3
+2021;Jaguar;F-TYPE P300 Convertible;Two-seater;2.0;4;AS8;Z;10.2;215;5;7
+2021;Jaguar;F-TYPE P300 Coupe;Two-seater;2.0;4;AS8;Z;10.2;215;5;7
+2021;Jaguar;F-TYPE P380 Convertible AWD;Two-seater;3.0;6;AS8;Z;13.0;265;4;7
+2021;Jaguar;F-TYPE P380 Coupe AWD;Two-seater;3.0;6;AS8;Z;13.0;265;4;7
+2021;Jaguar;F-TYPE R Convertible AWD;Two-seater;5.0;8;AS8;Z;15.2;299;3;3
+2021;Jaguar;F-TYPE R Coupe AWD;Two-seater;5.0;8;AS8;Z;15.2;299;3;3
+2021;Jaguar;XF P250;Mid-size;2.0;4;AS8;Z;9.4;197;6;7
+2021;Jaguar;XF P300 AWD;Mid-size;2.0;4;AS8;Z;10.6;219;5;7
+2021;Jeep;Cherokee;SUV: Small;2.0;4;A9;X;10.4;214;5;5
+2021;Jeep;Cherokee;SUV: Small;2.4;4;A9;X;10.8;219;5;6
+2021;Jeep;Cherokee;SUV: Small;3.2;6;A9;X;11.9;240;5;5
+2021;Jeep;Cherokee 4X4 Active Drive I;SUV: Small;2.0;4;A9;X;11.2;229;5;5
+2021;Jeep;Cherokee 4X4 Active Drive I;SUV: Small;2.4;4;A9;X;11.2;230;5;6
+2021;Jeep;Cherokee 4X4 Active Drive I;SUV: Small;3.2;6;A9;X;12.2;249;4;5
+2021;Jeep;Cherokee 4X4 Active Drive II;SUV: Small;2.0;4;A9;X;11.5;240;5;5
+2021;Jeep;Cherokee 4X4 Active Drive II;SUV: Small;3.2;6;A9;X;12.8;259;4;5
+2021;Jeep;Cherokee 4X4 Active Drive Lock;SUV: Small;3.2;6;A9;X;12.9;268;4;5
+2021;Jeep;Compass;SUV: Small;2.4;4;A6;X;10.6;218;5;6
+2021;Jeep;Compass 4X4;SUV: Small;2.4;4;A9;X;10.8;222;5;6
+2021;Jeep;Gladiator 4X4 EcoDiesel;Pickup truck: Standard;3.0;6;A8;D;10.8;263;4;1
+2021;Jeep;Gladiator 4X4 Rubicon EcoDiesel;Pickup truck: Standard;3.0;6;A8;D;11.0;271;4;1
+2021;Jeep;Gladiator 4X4;Pickup truck: Standard;3.6;6;A8;X;13.7;290;3;7
+2021;Jeep;Gladiator 4X4;Pickup truck: Standard;3.6;6;M6;X;14.3;296;3;7
+2021;Jeep;Grand Cherokee 4X4;SUV: Standard;3.6;6;A8;X;12.7;265;4;7
+2021;Jeep;Grand Cherokee 4X4;SUV: Standard;5.7;8;A8;X;16.7;331;3;3
+2021;Jeep;Grand Cherokee 4X4 SRT;SUV: Standard;6.4;8;A8;Z;18.3;368;2;1
+2021;Jeep;Grand Cherokee 4X4 Trackhawk;SUV: Standard;6.2;8;A8;Z;20.9;413;1;1
+2021;Jeep;Grand Cherokee L 4X4;SUV: Standard;3.6;6;A8;X;13.0;266;4;7
+2021;Jeep;Grand Cherokee L 4X4;SUV: Standard;5.7;8;A8;X;16.7;331;3;5
+2021;Jeep;Renegade;SUV: Small;1.3;4;A9;X;9.8;204;6;6
+2021;Jeep;Renegade;SUV: Small;2.4;4;A9;X;10.8;222;5;6
+2021;Jeep;Renegade 4X4;SUV: Small;1.3;4;A9;X;10.1;222;5;6
+2021;Jeep;Renegade 4X4 Trailhawk;SUV: Small;1.3;4;A9;X;10.8;231;5;6
+2021;Jeep;Renegade 4X4;SUV: Small;2.4;4;A9;X;11.2;230;5;6
+2021;Jeep;Wrangler JL 4X4;SUV: Small;2.0;4;A8;X;10.7;241;5;5
+2021;Jeep;Wrangler JL 4X4;SUV: Small;3.6;6;A8;X;12.8;274;4;7
+2021;Jeep;Wrangler JL 4X4 eTorque;SUV: Small;3.6;6;A8;X;12.0;258;4;5
+2021;Jeep;Wrangler JL 4X4;SUV: Small;3.6;6;M6;X;13.7;277;4;7
+2021;Jeep;Wrangler JL Unlimited 4X4;SUV: Small;2.0;4;A8;X;11.5;251;4;5
+2021;Jeep;Wrangler JL Unlimited 4X4 EcoDiesel;SUV: Small;3.0;6;A8;D;10.6;255;4;1
+2021;Jeep;Wrangler JL Unlimited 4X4 Rubicon EcoDiesel;SUV: Small;3.0;6;A8;D;11.2;275;4;1
+2021;Jeep;Wrangler JL Unlimited 4X4;SUV: Small;3.6;6;A8;X;12.9;280;4;7
+2021;Jeep;Wrangler JL Unlimited 4X4 eTorque;SUV: Small;3.6;6;A8;X;12.3;262;4;5
+2021;Jeep;Wrangler JL Unlimited 4X4;SUV: Small;3.6;6;M6;X;13.8;285;3;7
+2021;Kia;Forte;Mid-size;1.6;4;AM7;X;8.7;184;6;5
+2021;Kia;Forte;Mid-size;2.0;4;AV;X;7.8;164;7;5
+2021;Kia;Forte;Mid-size;2.0;4;M6;X;8.6;180;7;5
+2021;Kia;Forte 5;Full-size;1.6;4;AM7;X;8.9;190;6;5
+2021;Kia;Forte 5;Full-size;1.6;4;M6;X;9.9;209;5;5
+2021;Kia;Forte 5;Full-size;2.0;4;AV;X;8.0;169;7;5
+2021;Kia;K5;Full-size;2.5;4;AM8;X;9.9;207;6;5
+2021;Kia;K5 AWD;Full-size;1.6;4;AS8;X;9.2;193;6;5
+2021;Kia;Niro;Station wagon: Small;1.6;4;AM6;X;4.4;110;9;7
+2021;Kia;Niro FE;Station wagon: Small;1.6;4;AM6;X;4.4;110;9;7
+2021;Kia;Niro Touring;Station wagon: Small;1.6;4;AM6;X;5.0;124;9;7
+2021;Kia;Rio;Compact;1.6;4;AV1;X;7.2;159;7;3
+2021;Kia;Rio;Compact;1.6;4;M6;X;7.7;166;7;3
+2021;Kia;Sedona;Minivan;3.3;6;AS8;X;12.7;272;4;5
+2021;Kia;Seltos;SUV: Small;2.0;4;AV8;X;8.2;182;6;5
+2021;Kia;Seltos AWD;SUV: Small;1.6;4;AM7;X;9.4;205;6;5
+2021;Kia;Seltos AWD;SUV: Small;2.0;4;AV8;X;8.8;195;6;5
+2021;Kia;Sorento AWD;SUV: Small;2.5;4;AM8;X;11.1;233;5;5
+2021;Kia;Sorento AWD;SUV: Small;2.5;4;AS8;X;10.1;227;5;5
+2021;Kia;Soul;Station wagon: Small;2.0;4;AV;X;8.5;187;6;7
+2021;Kia;Sportage;SUV: Small;2.4;4;AS6;X;10.1;214;5;5
+2021;Kia;Sportage AWD;SUV: Small;2.0;4;AS6;X;12.1;261;4;5
+2021;Kia;Sportage AWD;SUV: Small;2.4;4;AS6;X;10.7;237;5;5
+2021;Kia;Stinger AWD;Mid-size;3.3;6;AS8;Z;13.6;279;4;3
+2021;Kia;Telluride AWD;SUV: Small;3.8;6;AS8;X;12.6;265;4;5
+2021;Lamborghini;Aventador Coupe S;Two-seater;6.5;12;AM7;Z;27.9;520;1;1
+2021;Lamborghini;Aventador Coupe SVJ;Two-seater;6.5;12;AM7;Z;27.9;520;1;1
+2021;Lamborghini;Aventador Roadster S;Two-seater;6.5;12;AM7;Z;27.3;515;1;1
+2021;Lamborghini;Aventador Roadster SVJ;Two-seater;6.5;12;AM7;Z;27.3;515;1;1
+2021;Lamborghini;Aventador Sian Coupe;Two-seater;6.5;12;AM7;Z;28.3;539;1;1
+2021;Lamborghini;Aventador Sian Roadster;Two-seater;6.5;12;AM7;Z;28.3;539;1;1
+2021;Lamborghini;Huracan;Two-seater;5.2;10;AM7;Z;18.0;370;2;1
+2021;Lamborghini;Huracan AWD;Two-seater;5.2;10;AM7;Z;18.0;371;2;1
+2021;Lamborghini;Huracan Spyder;Two-seater;5.2;10;AM7;Z;18.0;370;2;1
+2021;Lamborghini;Huracan Spyder AWD;Two-seater;5.2;10;AM7;Z;18.0;371;2;1
+2021;Lamborghini;Huracan STO;Two-seater;5.2;10;AM7;Z;18.0;370;2;1
+2021;Lamborghini;Urus;SUV: Standard;4.0;8;AS8;Z;19.2;384;1;3
+2021;Land Rover;Defender 90 P300;SUV: Standard;2.0;4;AS8;Z;13.2;289;3;7
+2021;Land Rover;Defender 90 P400;SUV: Standard;3.0;6;AS8;Z;13.5;287;3;7
+2021;Land Rover;Defender 110 P300;SUV: Standard;2.0;4;AS8;Z;14.2;306;3;7
+2021;Land Rover;Defender 110 P400;SUV: Standard;3.0;6;AS8;Z;13.5;287;3;7
+2021;Land Rover;Discovery P300;SUV: Standard;2.0;4;AS8;Z;12.2;271;4;7
+2021;Land Rover;Discovery P360;SUV: Standard;3.0;6;AS8;Z;12.8;270;4;7
+2021;Land Rover;Discovery Sport P250;SUV: Small;2.0;4;AS9;Z;12.7;271;4;7
+2021;Land Rover;Range Rover P360/P400;SUV: Standard;3.0;6;AS8;Z;13.3;279;4;7
+2021;Land Rover;Range Rover Td6 Diesel;SUV: Standard;3.0;6;AS8;D;10.6;256;4;1
+2021;Land Rover;Range Rover P525 Supercharged;SUV: Standard;5.0;8;AS8;Z;14.4;305;3;3
+2021;Land Rover;Range Rover P525 Supercharged LWB;SUV: Standard;5.0;8;AS8;Z;14.4;305;3;3
+2021;Land Rover;Range Rover SVAutobiography;SUV: Standard;5.0;8;AS8;Z;17.1;354;2;3
+2021;Land Rover;Range Rover SVAutobiography LWB;SUV: Standard;5.0;8;AS8;Z;17.9;365;2;3
+2021;Land Rover;Range Rover Sport P360/P400;SUV: Standard;3.0;6;AS8;Z;12.7;269;4;7
+2021;Land Rover;Range Rover Sport Td6 Diesel;SUV: Standard;3.0;6;AS8;D;10.6;256;4;1
+2021;Land Rover;Range Rover Sport P525 Supercharged;SUV: Standard;5.0;8;AS8;Z;14.0;293;3;3
+2021;Land Rover;Range Rover Sport SVR;SUV: Standard;5.0;8;AS8;Z;16.2;336;2;3
+2021;Land Rover;Range Rover Evoque P250;SUV: Small;2.0;4;AS9;Z;11.9;247;4;7
+2021;Land Rover;Range Rover Velar P250;SUV: Small;2.0;4;AS8;Z;11.5;244;5;7
+2021;Land Rover;Range Rover Velar P340;SUV: Small;3.0;6;AS8;Z;11.8;248;4;7
+2021;Land Rover;Range Rover Velar P400;SUV: Small;3.0;6;AS8;Z;12.6;265;4;7
+2021;Lexus;ES 250 AWD;Mid-size;2.5;4;AS8;X;9.5;197;6;6
+2021;Lexus;ES 300h;Mid-size;2.5;4;AV6;X;5.5;124;9;7
+2021;Lexus;ES 350;Mid-size;3.5;6;AS8;X;10.7;213;5;5
+2021;Lexus;ES 350 F SPORT;Mid-size;3.5;6;AS8;X;10.9;219;5;5
+2021;Lexus;GX 460;SUV: Standard;4.6;8;AS6;Z;16.2;337;2;3
+2021;Lexus;IS 300;Compact;2.0;4;AS8;Z;11.0;221;5;5
+2021;Lexus;IS 300 AWD;Compact;3.5;6;AS6;Z;12.2;253;4;5
+2021;Lexus;IS 350 AWD;Compact;3.5;6;AS6;Z;12.2;253;4;5
+2021;Lexus;LC 500;Subcompact;5.0;8;AS10;Z;15.1;294;3;5
+2021;Lexus;LC 500 Convertible;Minicompact;5.0;8;AS10;Z;16.0;304;3;5
+2021;Lexus;LC 500h;Subcompact;3.5;6;AV10;Z;9.0;189;6;7
+2021;Lexus;LS 500 AWD;Mid-size;3.5;6;AS10;Z;13.8;269;4;5
+2021;Lexus;LS 500h AWD;Mid-size;3.5;6;AV10;Z;10.1;213;5;7
+2021;Lexus;LX 570;SUV: Standard;5.7;8;AS8;Z;19.2;395;1;3
+2021;Lexus;NX 300 AWD;SUV: Small;2.0;4;AS6;Z;10.7;226;5;3
+2021;Lexus;NX 300 AWD F SPORT;SUV: Small;2.0;4;AS6;Z;10.8;232;5;3
+2021;Lexus;NX 300h AWD;SUV: Small;2.5;4;AV6;X;7.2;175;7;7
+2021;Lexus;RC 300 AWD;Subcompact;3.5;6;AS6;Z;12.2;253;4;5
+2021;Lexus;RC 350 AWD;Subcompact;3.5;6;AS6;Z;12.2;253;4;5
+2021;Lexus;RC F;Subcompact;5.0;8;AS8;Z;14.4;285;3;5
+2021;Lexus;RX 350 AWD;SUV: Small;3.5;6;AS8;X;12.2;252;4;5
+2021;Lexus;RX 350 L AWD;SUV: Small;3.5;6;AS8;X;13.1;268;4;5
+2021;Lexus;RX 450h AWD;SUV: Standard;3.5;6;AV6;Z;7.5;185;6;7
+2021;Lexus;RX 450h L AWD;SUV: Standard;3.5;6;AV6;Z;8.1;190;6;7
+2021;Lexus;UX 200;Mid-size;2.0;4;AS10;X;8.0;168;7;6
+2021;Lexus;UX 250h;Compact;2.0;4;AV6;X;5.5;130;9;7
+2021;Lexus;UX 250h AWD;Compact;2.0;4;AV6;X;5.7;140;8;7
+2021;Lincoln;Aviator AWD;SUV: Standard;3.0;6;AS10;X;13.7;280;4;5
+2021;Lincoln;Corsair AWD;SUV: Small;2.0;4;AS8;X;11.1;229;5;5
+2021;Lincoln;Corsair AWD;SUV: Small;2.3;4;AS8;X;11.1;232;5;5
+2021;Lincoln;Nautilus AWD;SUV: Small;2.0;4;A8;X;12.0;252;4;5
+2021;Lincoln;Nautilus AWD;SUV: Small;2.0;4;AS8;X;12.0;252;4;5
+2021;Lincoln;Nautilus AWD;SUV: Small;2.7;6;AS8;X;12.6;262;4;5
+2021;Lincoln;Navigator 4X4;SUV: Standard;3.5;6;AS10;X;15.0;316;3;5
+2021;Maserati;Ghibli;Mid-size;3.0;6;A8;Z;13.8;277;4;3
+2021;Maserati;Ghibli S;Mid-size;3.0;6;A8;Z;13.8;277;4;3
+2021;Maserati;Ghibli S Q4;Mid-size;3.0;6;A8;Z;14.8;293;3;3
+2021;Maserati;Ghibli Trofeo;Mid-size;3.8;8;A8;Z;17.4;348;2;1
+2021;Maserati;Levante;SUV: Standard;3.0;6;A8;Z;15.1;308;3;3
+2021;Maserati;Levante S;SUV: Standard;3.0;6;A8;Z;15.1;308;3;3
+2021;Maserati;Levante GTS;SUV: Standard;3.8;8;A8;Z;17.4;349;2;1
+2021;Maserati;Levante Trofeo;SUV: Standard;3.8;8;A8;Z;17.4;349;2;1
+2021;Maserati;Quattroporte S;Full-size;3.0;6;A8;Z;14.6;291;3;3
+2021;Maserati;Quattroporte S Q4;Full-size;3.0;6;A8;Z;14.8;293;3;3
+2021;Maserati;Quattroporte Trofeo;Full-size;3.8;8;A8;Z;17.4;348;2;1
+2021;Mazda;CX-3;Compact;2.0;4;AS6;X;8.3;179;7;3
+2021;Mazda;CX-3 (SIL);Compact;2.0;4;M6;X;8.8;186;6;3
+2021;Mazda;CX-3 4WD;Compact;2.0;4;AS6;X;8.6;189;6;3
+2021;Mazda;CX-30;SUV: Small;2.0;4;AS6;X;8.9;189;6;7
+2021;Mazda;CX-30;SUV: Small;2.5;4;AS6;X;9.3;194;6;7
+2021;Mazda;CX-30 4WD;SUV: Small;2.0;4;AS6;X;9.4;202;6;7
+2021;Mazda;CX-30 4WD;SUV: Small;2.5;4;AS6;X;9.9;208;6;7
+2021;Mazda;CX-30 Turbo 4WD;SUV: Small;2.5;4;AS6;X;10.5;220;5;3
+2021;Mazda;CX-5;SUV: Small;2.5;4;AS6;X;9.7;206;6;7
+2021;Mazda;CX-5 (Cylinder Deactivation);SUV: Small;2.5;4;AS6;X;9.3;201;6;7
+2021;Mazda;CX-5 4WD;SUV: Small;2.5;4;AS6;X;10.2;217;5;7
+2021;Mazda;CX-5 4WD (Cylinder Deactivation);SUV: Small;2.5;4;AS6;X;9.8;209;5;7
+2021;Mazda;CX-5 Turbo 4WD;SUV: Small;2.5;4;AS6;X;10.8;230;5;5
+2021;Mazda;CX-9 4WD;SUV: Small;2.5;4;AS6;X;11.6;244;5;5
+2021;Mazda;Mazda3 4-Door;Compact;2.0;4;AS6;X;8.4;178;7;7
+2021;Mazda;Mazda3 4-Door (SIL);Compact;2.0;4;M6;X;8.7;180;7;7
+2021;Mazda;Mazda3 4-Door;Compact;2.5;4;AS6;X;8.9;184;6;7
+2021;Mazda;Mazda3 4-Door 4WD;Compact;2.5;4;AS6;X;9.3;193;6;7
+2021;Mazda;Mazda3 4-Door Turbo 4WD;Compact;2.5;4;AS6;X;10.1;207;6;3
+2021;Mazda;Mazda3 5-Door;Mid-size;2.0;4;AS6;X;8.6;181;7;7
+2021;Mazda;Mazda3 5-Door (SIL);Mid-size;2.0;4;M6;X;8.7;181;6;7
+2021;Mazda;Mazda3 5-Door;Mid-size;2.5;4;AS6;X;9.2;190;6;7
+2021;Mazda;Mazda3 5-Door (SIL);Mid-size;2.5;4;M6;X;9.5;197;6;7
+2021;Mazda;Mazda3 5-Door 4WD;Mid-size;2.5;4;AS6;X;9.5;200;6;7
+2021;Mazda;Mazda3 5-Door Turbo 4WD;Mid-size;2.5;4;AS6;X;10.1;209;5;3
+2021;Mazda;Mazda6;Mid-size;2.5;4;AS6;X;9.1;187;6;7
+2021;Mazda;Mazda6 Turbo;Mid-size;2.5;4;AS6;X;10.0;208;6;3
+2021;Mazda;MX-5;Two-seater;2.0;4;AS6;Z;9.0;186;6;3
+2021;Mazda;MX-5 (SIL);Two-seater;2.0;4;M6;Z;9.0;189;6;3
+2021;Mercedes-Benz;A 220 4MATIC Sedan;Subcompact;2.0;4;AM7;Z;9.6;197;6;5
+2021;Mercedes-Benz;A 250 4MATIC Hatch;Station wagon: Small;2.0;4;AM7;Z;9.4;193;6;5
+2021;Mercedes-Benz;AMG A 35 4MATIC Sedan;Subcompact;2.0;4;AM7;Z;10.7;224;5;5
+2021;Mercedes-Benz;AMG A 35 4MATIC Hatch;Station wagon: Small;2.0;4;AM7;Z;10.6;224;5;5
+2021;Mercedes-Benz;AMG C 43 4MATIC Sedan;Compact;3.0;6;A9;Z;13.4;266;4;5
+2021;Mercedes-Benz;AMG C 43 4MATIC Cabriolet;Subcompact;3.0;6;A9;Z;12.3;251;4;5
+2021;Mercedes-Benz;AMG C 43 4MATIC Coupe;Subcompact;3.0;6;A9;Z;12.5;254;4;5
+2021;Mercedes-Benz;AMG C 43 4MATIC Wagon;Station wagon: Small;3.0;6;A9;Z;12.3;249;4;5
+2021;Mercedes-Benz;AMG C 63 Sedan;Compact;4.0;8;A9;Z;13.5;269;4;3
+2021;Mercedes-Benz;AMG C 63 S Sedan;Compact;4.0;8;A9;Z;13.5;269;4;3
+2021;Mercedes-Benz;AMG C 63 S Cabriolet;Subcompact;4.0;8;A9;Z;13.9;281;4;3
+2021;Mercedes-Benz;AMG C 63 S Coupe;Subcompact;4.0;8;A9;Z;13.7;273;4;3
+2021;Mercedes-Benz;AMG CLA 35 4MATIC Coupe;Compact;2.0;4;AM7;Z;10.7;224;5;5
+2021;Mercedes-Benz;AMG CLA 45 4MATIC Coupe;Compact;2.0;4;AM8;Z;12.0;242;5;3
+2021;Mercedes-Benz;AMG CLS 53 4MATIC+ Coupe;Compact;3.0;6;A9;Z;11.3;242;5;6
+2021;Mercedes-Benz;AMG E 53 4MATIC+ Sedan;Mid-size;3.0;6;A9;Z;10.7;225;5;6
+2021;Mercedes-Benz;AMG E 53 4MATIC+ Cabriolet;Subcompact;3.0;6;A9;Z;11.3;239;5;6
+2021;Mercedes-Benz;AMG E 53 4MATIC+ Coupe;Subcompact;3.0;6;A9;Z;11.2;235;5;6
+2021;Mercedes-Benz;AMG E 53 4MATIC+ Wagon;Station wagon: Mid-size;3.0;6;A9;Z;11.3;238;5;6
+2021;Mercedes-Benz;AMG E 63 S 4MATIC+ Sedan;Mid-size;4.0;8;A9;Z;15.0;301;3;3
+2021;Mercedes-Benz;AMG E 63 S 4MATIC+ Wagon;Station wagon: Mid-size;4.0;8;A9;Z;14.7;300;3;3
+2021;Mercedes-Benz;AMG G 63 SUV;SUV: Standard;4.0;8;A9;Z;18.6;396;1;3
+2021;Mercedes-Benz;AMG GLA 35 4MATIC SUV;SUV: Small;2.0;4;AM8;Z;10.4;219;5;5
+2021;Mercedes-Benz;AMG GLA 45 4MATIC SUV;SUV: Small;2.0;4;AM8;Z;11.6;243;5;3
+2021;Mercedes-Benz;AMG GLB 35 SUV;SUV: Small;2.0;4;AM8;Z;11.1;237;5;5
+2021;Mercedes-Benz;AMG GLC 43 4MATIC SUV;SUV: Small;3.0;6;A9;Z;13.1;272;4;5
+2021;Mercedes-Benz;AMG GLC 43 4MATIC Coupe;SUV: Small;3.0;6;A9;Z;13.5;277;4;5
+2021;Mercedes-Benz;AMG GLC 63 S 4MATIC+ SUV;SUV: Small;4.0;8;A9;Z;15.7;319;3;5
+2021;Mercedes-Benz;AMG GLC 63 S 4MATIC+ Coupe;SUV: Small;4.0;8;A9;Z;15.2;311;3;5
+2021;Mercedes-Benz;AMG GLE 53 4MATIC+ SUV;SUV: Standard;3.0;6;A9;Z;13.2;285;3;6
+2021;Mercedes-Benz;AMG GLE 53 4MATIC+ Coupe;SUV: Standard;3.0;6;A9;Z;12.7;273;4;6
+2021;Mercedes-Benz;AMG GLE 63 S 4MATIC+ SUV;SUV: Standard;4.0;8;A9;Z;16.2;340;2;3
+2021;Mercedes-Benz;AMG GLE 63 S 4MATIC+ Coupe;SUV: Standard;4.0;8;A9;Z;16.3;347;2;3
+2021;Mercedes-Benz;AMG GLS 63 4MATIC+ SUV;SUV: Standard;4.0;8;A9;Z;16.3;347;2;3
+2021;Mercedes-Benz;AMG GT 53 4MATIC+ Coupe;Compact;3.0;6;A9;Z;11.9;255;4;6
+2021;Mercedes-Benz;AMG GT 63 4MATIC+ Coupe;Compact;4.0;8;A9;Z;15.6;322;3;5
+2021;Mercedes-Benz;AMG GT 63 S 4MATIC+ Coupe;Compact;4.0;8;A9;Z;15.1;312;3;5
+2021;Mercedes-Benz;AMG GT Black Series Coupe;Two-seater;4.0;8;AM7;Z;15.6;328;3;3
+2021;Mercedes-Benz;AMG GT C Coupe;Two-seater;4.0;8;AM7;Z;15.9;332;3;3
+2021;Mercedes-Benz;AMG GT C Roadster;Two-seater;4.0;8;AM7;Z;15.8;330;3;3
+2021;Mercedes-Benz;AMG GT R Coupe;Two-seater;4.0;8;AM7;Z;16.4;339;2;3
+2021;Mercedes-Benz;AMG S 63 4MATIC+ Cabriolet;Subcompact;4.0;8;A9;Z;16.3;317;3;5
+2021;Mercedes-Benz;AMG S 63 4MATIC+ Coupe;Compact;4.0;8;A9;Z;15.1;293;3;5
+2021;Mercedes-Benz;C 300 4MATIC Sedan;Compact;2.0;4;A9;Z;10.1;204;6;6
+2021;Mercedes-Benz;C 300 4MATIC Cabriolet;Subcompact;2.0;4;A9;Z;10.8;223;5;6
+2021;Mercedes-Benz;C 300 4MATIC Coupe;Subcompact;2.0;4;A9;Z;10.2;210;5;6
+2021;Mercedes-Benz;C 300 4MATIC Wagon;Station wagon: Small;2.0;4;A9;Z;10.5;214;5;6
+2021;Mercedes-Benz;CLA 250 4MATIC Coupe;Compact;2.0;4;AM7;Z;9.8;201;6;5
+2021;Mercedes-Benz;CLS 450 4MATIC Coupe;Compact;3.0;6;A9;Z;10.5;222;5;6
+2021;Mercedes-Benz;E 350 4MATIC Sedan;Mid-size;2.0;4;A9;Z;10.7;221;5;6
+2021;Mercedes-Benz;E 450 4MATIC Sedan;Mid-size;3.0;6;A9;Z;10.4;217;5;6
+2021;Mercedes-Benz;E 450 4MATIC Cabriolet;Subcompact;3.0;6;A9;Z;10.4;219;5;6
+2021;Mercedes-Benz;E 450 4MATIC Coupe;Subcompact;3.0;6;A9;Z;10.3;218;5;6
+2021;Mercedes-Benz;E 450 4MATIC All-Terrain Wagon;Station wagon: Mid-size;3.0;6;A9;Z;10.6;226;5;6
+2021;Mercedes-Benz;G 550 SUV;SUV: Standard;4.0;8;A9;Z;13.6;307;3;3
+2021;Mercedes-Benz;GLA 250 4MATIC SUV;SUV: Small;2.0;4;AM8;Z;9.8;203;6;5
+2021;Mercedes-Benz;GLB 250 4MATIC SUV;SUV: Small;2.0;4;AM8;Z;10.3;216;5;5
+2021;Mercedes-Benz;GLC 300 4MATIC SUV;SUV: Small;2.0;4;A9;Z;11.3;235;5;6
+2021;Mercedes-Benz;GLC 300 4MATIC Coupe;SUV: Small;2.0;4;A9;Z;10.6;226;5;6
+2021;Mercedes-Benz;GLE 350 4MATIC SUV;SUV: Standard;2.0;4;A9;Z;12.4;254;4;5
+2021;Mercedes-Benz;GLE 450 4MATIC SUV;SUV: Standard;3.0;6;A9;Z;11.4;244;5;6
+2021;Mercedes-Benz;GLS 450 4MATIC SUV;SUV: Standard;3.0;6;A9;Z;12.0;257;4;6
+2021;Mercedes-Benz;GLS 580 4MATIC SUV;SUV: Standard;4.0;8;A9;Z;14.5;305;3;5
+2021;Mercedes-Benz;Maybach GLS 600 4MATIC SUV;SUV: Standard;4.0;8;A9;Z;16.6;346;2;3
+2021;Mercedes-Benz;Maybach S 580 4MATIC Sedan;Full-size;4.0;8;A9;Z;15.5;301;3;5
+2021;Mercedes-Benz;Metris Cargo Van;Special purpose vehicle;2.0;4;A9;Z;12.6;268;4;5
+2021;Mercedes-Benz;Metris Cargo Van LWB;Special purpose vehicle;2.0;4;A9;Z;12.6;268;4;5
+2021;Mercedes-Benz;Metris Passenger Van;Special purpose vehicle;2.0;4;A9;Z;13.3;284;3;5
+2021;Mercedes-Benz;S 500 4MATIC SWB Sedan;Full-size;3.0;6;A9;Z;11.3;230;5;6
+2021;Mercedes-Benz;S 560 Cabriolet;Subcompact;4.0;8;A9;Z;14.5;282;4;5
+2021;Mercedes-Benz;S 560 4MATIC Coupe;Compact;4.0;8;A9;Z;14.5;282;4;5
+2021;Mercedes-Benz;S 580 4MATIC LWB Sedan;Full-size;4.0;8;A9;Z;14.4;285;3;5
+2021;MINI;Cooper 3 Door;Subcompact;1.5;3;AM7;Z;8.4;176;7;7
+2021;MINI;Cooper 3 Door;Subcompact;1.5;3;M6;Z;8.8;180;7;7
+2021;MINI;Cooper 5 Door;Subcompact;1.5;3;AM7;Z;8.4;176;7;7
+2021;MINI;Cooper 5 Door;Subcompact;1.5;3;M6;Z;8.8;180;7;7
+2021;MINI;Cooper Clubman ALL4;Mid-size;1.5;3;AS8;Z;9.7;198;6;7
+2021;MINI;Cooper Convertible;Minicompact;1.5;3;AM7;Z;8.4;176;7;7
+2021;MINI;Cooper Convertible;Minicompact;1.5;3;M6;Z;8.8;180;7;7
+2021;MINI;Cooper Countryman ALL4;Mid-size;1.5;3;AS8;Z;10.0;206;6;7
+2021;MINI;Cooper S 3 Door;Subcompact;2.0;4;AM7;Z;8.9;184;6;7
+2021;MINI;Cooper S 3 Door;Subcompact;2.0;4;M6;Z;10.2;206;6;7
+2021;MINI;Cooper S 5 Door;Subcompact;2.0;4;AM7;Z;8.9;184;6;7
+2021;MINI;Cooper S 5 Door;Subcompact;2.0;4;M6;Z;10.2;206;6;7
+2021;MINI;Cooper S Clubman ALL4;Mid-size;2.0;4;AS8;Z;10.1;207;6;7
+2021;MINI;Cooper S Convertible;Minicompact;2.0;4;AM7;Z;9.1;191;6;7
+2021;MINI;Cooper S Convertible;Minicompact;2.0;4;M6;Z;10.3;209;5;7
+2021;MINI;Cooper S Countryman ALL4;Mid-size;2.0;4;AS8;Z;10.4;212;5;7
+2021;MINI;John Cooper Works 3 Door;Subcompact;2.0;4;AS8;Z;9.2;190;6;7
+2021;MINI;John Cooper Works 3 Door;Subcompact;2.0;4;M6;Z;10.2;206;6;7
+2021;MINI;John Cooper Works Clubman ALL4;Mid-size;2.0;4;AS8;Z;10.1;210;5;3
+2021;MINI;John Cooper Works Convertible;Minicompact;2.0;4;AS8;Z;9.4;194;6;7
+2021;MINI;John Cooper Works Countryman ALL4;Mid-size;2.0;4;AS8;Z;10.0;210;5;3
+2021;MINI;John Cooper Works GP;Subcompact;2.0;4;AS8;Z;9.9;208;6;3
+2021;Mitsubishi;Mirage;Compact;1.2;3;AV;X;6.6;143;8;5
+2021;Mitsubishi;Mirage;Compact;1.2;3;M5;X;7.1;151;8;5
+2021;Mitsubishi;RVR;SUV: Small;2.0;4;AV6;X;9.7;206;6;5
+2021;Mitsubishi;RVR 4WD;SUV: Small;2.0;4;AV6;X;10.1;213;5;5
+2021;Mitsubishi;RVR 4WD;SUV: Small;2.4;4;AV6;X;10.3;218;5;5
+2021;Nissan;Altima AWD;Mid-size;2.5;4;AV;X;9.1;187;6;7
+2021;Nissan;Altima AWD SR/Platinum;Mid-size;2.5;4;AV;X;9.3;190;6;7
+2021;Nissan;Armada 4WD;SUV: Standard;5.6;8;AS7;Z;17.5;362;2;3
+2021;Nissan;GT-R;Subcompact;3.8;6;AM6;Z;14.4;300;3;3
+2021;Nissan;Kicks;Mid-size;1.6;4;AV;X;7.7;169;7;7
+2021;Nissan;Maxima;Mid-size;3.5;6;AV7;Z;11.6;233;5;3
+2021;Nissan;Murano;Station wagon: Mid-size;3.5;6;AV7;X;11.7;240;5;5
+2021;Nissan;Murano AWD;Station wagon: Mid-size;3.5;6;AV7;X;12.0;245;5;5
+2021;Nissan;NV200 Cargo Van;Special purpose vehicle;2.0;4;AV;X;9.9;223;5;3
+2021;Nissan;Qashqai;Station wagon: Small;2.0;4;AV8;X;8.8;191;6;5
+2021;Nissan;Qashqai;Station wagon: Small;2.0;4;M6;X;9.9;212;5;5
+2021;Nissan;Qashqai AWD;Station wagon: Small;2.0;4;AV8;X;9.0;197;6;5
+2021;Nissan;Rogue;SUV: Small;2.5;4;AV8;X;8.9;189;6;7
+2021;Nissan;Rogue AWD;SUV: Small;2.5;4;AV8;X;9.2;195;6;7
+2021;Nissan;Sentra;Mid-size;2.0;4;AV;X;8.0;167;7;7
+2021;Nissan;Sentra SR;Mid-size;2.0;4;AV;X;8.2;171;7;7
+2021;Nissan;Sentra;Mid-size;2.0;4;M6;X;9.3;187;6;7
+2021;Nissan;Sentra SR;Mid-size;2.0;4;M6;X;9.4;190;6;7
+2021;Nissan;Titan 4WD;Pickup truck: Standard;5.6;8;AS9;Z;15.2;314;3;5
+2021;Nissan;Titan 4WD Pro-4X;Pickup truck: Standard;5.6;8;AS9;Z;15.4;321;3;5
+2021;Nissan;Versa;Compact;1.6;4;AV;X;7.4;158;7;7
+2021;Nissan;Versa;Compact;1.6;4;M5;X;8.6;181;7;7
+2021;Porsche;718 Boxster;Two-seater;2.0;4;AM7;Z;11.0;233;5;1
+2021;Porsche;718 Boxster;Two-seater;2.0;4;M6;Z;11.7;245;5;1
+2021;Porsche;718 Boxster GTS 4.0;Two-seater;4.0;6;AM7;Z;12.3;260;4;5
+2021;Porsche;718 Boxster GTS 4.0;Two-seater;4.0;6;M6;Z;14.0;284;3;5
+2021;Porsche;718 Boxster S;Two-seater;2.5;4;AM7;Z;12.2;255;4;1
+2021;Porsche;718 Boxster S;Two-seater;2.5;4;M6;Z;12.5;263;4;1
+2021;Porsche;718 Boxster T;Two-seater;2.0;4;AM7;Z;11.2;236;5;1
+2021;Porsche;718 Boxster T;Two-seater;2.0;4;M6;Z;11.7;245;5;1
+2021;Porsche;718 Cayman;Two-seater;2.0;4;AM7;Z;11.0;233;5;1
+2021;Porsche;718 Cayman;Two-seater;2.0;4;M6;Z;11.7;245;5;1
+2021;Porsche;718 Cayman GT4;Two-seater;4.0;6;AM7;Z;13.0;271;4;5
+2021;Porsche;718 Cayman GT4;Two-seater;4.0;6;M6;Z;14.0;286;3;5
+2021;Porsche;718 Cayman GTS 4.0;Two-seater;4.0;6;AM7;Z;12.3;260;4;5
+2021;Porsche;718 Cayman GTS 4.0;Two-seater;4.0;6;M6;Z;14.0;284;3;5
+2021;Porsche;718 Cayman S;Two-seater;2.5;4;AM7;Z;12.2;255;4;1
+2021;Porsche;718 Cayman S;Two-seater;2.5;4;M6;Z;12.5;263;4;1
+2021;Porsche;718 Cayman T;Two-seater;2.0;4;AM7;Z;11.2;236;5;1
+2021;Porsche;718 Cayman T;Two-seater;2.0;4;M6;Z;11.7;245;5;1
+2021;Porsche;718 Spyder;Two-seater;4.0;6;AM7;Z;13.0;271;4;5
+2021;Porsche;718 Spyder;Two-seater;4.0;6;M6;Z;14.0;286;3;5
+2021;Porsche;911 Carrera;Minicompact;3.0;6;AM8;Z;13.1;275;4;5
+2021;Porsche;911 Carrera Cabriolet;Minicompact;3.0;6;AM8;Z;13.1;275;4;5
+2021;Porsche;911 Carrera S;Minicompact;3.0;6;AM8;Z;12.9;274;4;5
+2021;Porsche;911 Carrera S;Minicompact;3.0;6;M7;Z;12.8;264;4;5
+2021;Porsche;911 Carrera S Cabriolet;Minicompact;3.0;6;AM8;Z;12.9;273;4;5
+2021;Porsche;911 Carrera S Cabriolet;Minicompact;3.0;6;M7;Z;13.8;275;4;5
+2021;Porsche;911 Carrera 4;Minicompact;3.0;6;AM8;Z;13.1;275;4;5
+2021;Porsche;911 Carrera 4 Cabriolet;Minicompact;3.0;6;AM8;Z;13.1;275;4;5
+2021;Porsche;911 Carrera 4S;Minicompact;3.0;6;AM8;Z;13.0;275;4;5
+2021;Porsche;911 Carrera 4S;Minicompact;3.0;6;M7;Z;13.8;275;4;5
+2021;Porsche;911 Carrera 4S Cabriolet;Minicompact;3.0;6;AM8;Z;12.8;273;4;5
+2021;Porsche;911 Carrera 4S Cabriolet;Minicompact;3.0;6;M7;Z;13.8;281;4;5
+2021;Porsche;911 Targa 4;Minicompact;3.0;6;AM8;Z;13.1;275;4;5
+2021;Porsche;911 Targa 4S;Minicompact;3.0;6;AM8;Z;13.1;274;4;5
+2021;Porsche;911 Targa 4S;Minicompact;3.0;6;M7;Z;13.7;278;4;5
+2021;Porsche;911 Turbo;Minicompact;3.7;6;AM8;Z;15.2;321;3;5
+2021;Porsche;911 Turbo Cabriolet;Minicompact;3.7;6;AM8;Z;15.6;324;3;5
+2021;Porsche;911 Turbo S;Minicompact;3.7;6;AM8;Z;15.3;321;3;5
+2021;Porsche;911 Turbo S Cabriolet;Minicompact;3.7;6;AM8;Z;16.0;328;3;5
+2021;Porsche;Cayenne;SUV: Standard;3.0;6;AS8;Z;12.5;269;4;5
+2021;Porsche;Cayenne Coupe;SUV: Standard;3.0;6;AS8;Z;12.7;271;4;5
+2021;Porsche;Cayenne GTS;SUV: Standard;4.0;8;AS8;Z;15.8;331;3;3
+2021;Porsche;Cayenne GTS Coupe;SUV: Standard;4.0;8;AS8;Z;15.2;326;3;3
+2021;Porsche;Cayenne S;SUV: Standard;2.9;6;AS8;Z;13.1;278;4;5
+2021;Porsche;Cayenne S Coupe;SUV: Standard;2.9;6;AS8;Z;13.4;286;3;5
+2021;Porsche;Cayenne Turbo;SUV: Standard;4.0;8;AS8;Z;15.6;329;3;3
+2021;Porsche;Cayenne Turbo Coupe;SUV: Standard;4.0;8;AS8;Z;15.8;332;3;3
+2021;Porsche;Macan;SUV: Small;2.0;4;AM7;Z;12.2;264;4;5
+2021;Porsche;Macan GTS;SUV: Small;2.9;6;AM7;Z;13.5;285;3;5
+2021;Porsche;Macan S;SUV: Small;2.9;6;AM7;Z;13.1;274;4;5
+2021;Porsche;Macan Turbo;SUV: Small;2.9;6;AM7;Z;13.5;293;3;5
+2021;Porsche;Panamera;Full-size;2.9;6;AM8;Z;13.1;274;4;5
+2021;Porsche;Panamera 4;Full-size;2.9;6;AM8;Z;12.8;274;4;5
+2021;Porsche;Panamera 4 Executive;Full-size;2.9;6;AM8;Z;13.8;289;3;5
+2021;Porsche;Panamera 4 ST;Full-size;2.9;6;AM8;Z;12.8;274;4;5
+2021;Porsche;Panamera 4S;Full-size;2.9;6;AM8;Z;12.8;276;4;5
+2021;Porsche;Panamera 4S Executive;Full-size;2.9;6;AM8;Z;13.8;292;3;5
+2021;Porsche;Panamera 4S ST;Full-size;2.9;6;AM8;Z;13.8;292;3;5
+2021;Porsche;Panamera GTS;Full-size;4.0;8;AM8;Z;15.7;323;3;3
+2021;Porsche;Panamera GTS ST;Full-size;4.0;8;AM8;Z;15.7;323;3;3
+2021;Porsche;Panamera Turbo S;Full-size;4.0;8;AM8;Z;15.3;326;3;3
+2021;Porsche;Panamera Turbo S Executive;Full-size;4.0;8;AM8;Z;15.3;326;3;3
+2021;Porsche;Panamera Turbo S ST;Full-size;4.0;8;AM8;Z;15.3;326;3;3
+2021;Ram;1500 EcoDiesel;Pickup truck: Standard;3.0;6;A8;D;10.5;243;5;1
+2021;Ram;1500 HFE EcoDiesel;Pickup truck: Standard;3.0;6;A8;D;10.4;238;5;1
+2021;Ram;1500 eTorque;Pickup truck: Standard;3.6;6;A8;X;11.9;253;4;5
+2021;Ram;1500 HFE eTorque;Pickup truck: Standard;3.6;6;A8;X;11.6;245;5;5
+2021;Ram;1500;Pickup truck: Standard;5.7;8;A8;X;16.2;320;3;5
+2021;Ram;1500 eTorque;Pickup truck: Standard;5.7;8;A8;X;14.1;290;3;5
+2021;Ram;1500 4X4 EcoDiesel;Pickup truck: Standard;3.0;6;A8;D;11.1;260;4;1
+2021;Ram;1500 4X4 eTorque;Pickup truck: Standard;3.6;6;A8;X;12.1;259;4;5
+2021;Ram;1500 4X4;Pickup truck: Standard;5.7;8;A8;X;16.1;325;3;5
+2021;Ram;1500 4X4 eTorque;Pickup truck: Standard;5.7;8;A8;X;14.0;294;3;5
+2021;Ram;1500 4X4 TRX;Pickup truck: Standard;6.2;8;A8;Z;22.4;465;1;1
+2021;Ram;1500 Classic;Pickup truck: Standard;3.6;6;A8;X;13.9;280;4;3
+2021;Ram;1500 Classic;Pickup truck: Standard;5.7;8;A8;X;15.7;319;3;3
+2021;Ram;1500 Classic 4X4;Pickup truck: Standard;3.6;6;A8;X;14.5;294;3;3
+2021;Ram;1500 Classic 4X4;Pickup truck: Standard;5.7;8;A8;X;16.2;330;3;3
+2021;Ram;ProMaster City;Special purpose vehicle;2.4;4;A9;X;11.2;232;5;6
+2021;Rolls-Royce;Cullinan;Station wagon: Mid-size;6.7;12;AS8;Z;20.1;386;1;3
+2021;Rolls-Royce;Cullinan Black Badge;Station wagon: Mid-size;6.7;12;AS8;Z;20.1;386;1;3
+2021;Rolls-Royce;Dawn;Compact;6.6;12;AS8;Z;20.7;408;1;3
+2021;Rolls-Royce;Dawn Black Badge;Compact;6.6;12;AS8;Z;20.7;408;1;3
+2021;Rolls-Royce;Ghost;Full-size;6.7;12;AS8;Z;19.9;387;1;3
+2021;Rolls-Royce;Ghost EWB;Full-size;6.7;12;AS8;Z;19.9;387;1;3
+2021;Rolls-Royce;Phantom;Full-size;6.7;12;AS8;Z;20.0;382;1;3
+2021;Rolls-Royce;Phantom EWB;Full-size;6.7;12;AS8;Z;20.0;382;1;3
+2021;Rolls-Royce;Wraith;Mid-size;6.6;12;AS8;Z;19.6;387;1;3
+2021;Rolls-Royce;Wraith Black Badge;Mid-size;6.6;12;AS8;Z;19.6;387;1;3
+2021;Subaru;Ascent AWD;SUV: Standard;2.4;4;AV8;X;11.6;244;5;3
+2021;Subaru;Crosstrek AWD;SUV: Small;2.0;4;AV8;X;8.5;185;6;6
+2021;Subaru;Crosstrek AWD;SUV: Small;2.0;4;M6;X;10.5;220;5;6
+2021;Subaru;Crosstrek AWD;SUV: Small;2.5;4;AV8;X;8.8;188;6;6
+2021;Subaru;Forester AWD;SUV: Small;2.5;4;AV7;X;9.0;192;6;6
+2021;Subaru;Impreza 4-Door AWD;Mid-size;2.0;4;AV7;X;8.3;174;7;6
+2021;Subaru;Impreza 4-Door AWD;Mid-size;2.0;4;M5;X;10.1;210;5;6
+2021;Subaru;Impreza 5-Door AWD;Station wagon: Small;2.0;4;AV7;X;8.4;178;7;6
+2021;Subaru;Impreza 5-Door AWD;Station wagon: Small;2.0;4;M5;X;10.1;211;5;6
+2021;Subaru;Legacy AWD;Full-size;2.4;4;AV8;X;9.9;205;6;3
+2021;Subaru;Legacy AWD;Full-size;2.5;4;AV8;X;8.9;184;6;6
+2021;Subaru;Outback AWD;SUV: Small;2.4;4;AV8;X;10.1;213;5;3
+2021;Subaru;Outback AWD;SUV: Small;2.5;4;AV8;X;9.0;192;6;6
+2021;Subaru;WRX AWD;Compact;2.0;4;AV8;Z;12.9;269;4;1
+2021;Subaru;WRX AWD;Compact;2.0;4;M6;Z;11.7;243;5;1
+2021;Subaru;WRX STI AWD;Compact;2.5;4;M6;Z;14.4;301;3;1
+2021;Toyota;4Runner 4WD;SUV: Standard;4.0;6;AS5;X;14.8;321;3;5
+2021;Toyota;4Runner 4WD (Part-Time 4WD);SUV: Standard;4.0;6;AS5;X;14.8;321;3;5
+2021;Toyota;Avalon;Mid-size;3.5;6;AS8;X;10.9;221;5;5
+2021;Toyota;Avalon AWD;Mid-size;2.5;4;AS8;X;9.5;197;6;6
+2021;Toyota;C-HR;Compact;2.0;4;AS7;X;8.7;189;6;3
+2021;Toyota;Camry LE/SE;Mid-size;2.5;4;AS8;X;8.5;173;7;7
+2021;Toyota;Camry XLE/XSE;Mid-size;2.5;4;AS8;X;8.6;177;7;7
+2021;Toyota;Camry;Mid-size;3.5;6;AS8;X;10.5;210;5;5
+2021;Toyota;Camry XSE;Mid-size;3.5;6;AS8;X;10.7;215;5;5
+2021;Toyota;Camry TRD;Mid-size;3.5;6;AS8;X;10.8;220;5;5
+2021;Toyota;Camry AWD LE/SE;Mid-size;2.5;4;AS8;X;9.3;190;6;6
+2021;Toyota;Camry AWD XLE/XSE;Mid-size;2.5;4;AS8;X;9.5;197;6;6
+2021;Toyota;Camry Hybrid LE;Mid-size;2.5;4;AV;X;4.9;113;9;7
+2021;Toyota;Camry Hybrid SE/XLE/XSE;Mid-size;2.5;4;AV;X;5.3;121;9;7
+2021;Toyota;Corolla;Compact;1.8;4;AV;X;7.9;165;7;5
+2021;Toyota;Corolla XLE;Compact;1.8;4;AV;X;8.1;170;7;5
+2021;Toyota;Corolla;Compact;1.8;4;M6;X;8.0;165;7;5
+2021;Toyota;Corolla;Compact;2.0;4;AV10;X;7.6;159;7;7
+2021;Toyota;Corolla XSE;Compact;2.0;4;AV10;X;7.7;164;7;7
+2021;Toyota;Corolla;Compact;2.0;4;M6;X;8.2;173;7;7
+2021;Toyota;Corolla Apex Edition;Compact;2.0;4;AV10;X;7.7;164;7;7
+2021;Toyota;Corolla Apex Edition;Compact;2.0;4;M6;X;8.4;178;7;7
+2021;Toyota;Corolla Hatchback;Compact;2.0;4;AV10;X;7.5;158;7;7
+2021;Toyota;Corolla Hatchback;Compact;2.0;4;M6;X;8.4;179;7;7
+2021;Toyota;Corolla Hybrid;Compact;1.8;4;AV;X;4.4;106;9;7
+2021;Toyota;GR Supra 2.0;Two-seater;2.0;4;AS8;Z;9.4;197;6;7
+2021;Toyota;GR Supra 3.0;Two-seater;3.0;6;AS8;Z;10.6;218;5;5
+2021;Toyota;Highlander;SUV: Small;3.5;6;AS8;X;11.9;240;5;5
+2021;Toyota;Highlander AWD;SUV: Small;3.5;6;AS8;X;11.8;241;5;5
+2021;Toyota;Highlander Hybrid AWD;SUV: Standard;2.5;4;AV;X;6.7;158;7;7
+2021;Toyota;Highlander Hybrid AWD Limited/Platinum;SUV: Standard;2.5;4;AV;X;6.6;156;7;7
+2021;Toyota;Prius;Mid-size;1.8;4;AV;X;4.4;106;9;7
+2021;Toyota;Prius AWD;Mid-size;1.8;4;AV;X;4.6;111;9;7
+2021;Toyota;RAV4;SUV: Small;2.5;4;AS8;X;8.8;184;6;6
+2021;Toyota;RAV4 (Stop/Start);SUV: Small;2.5;4;AS8;X;8.5;180;7;6
+2021;Toyota;RAV4 AWD;SUV: Small;2.5;4;AS8;X;9.4;195;6;6
+2021;Toyota;RAV4 AWD (Stop/Start);SUV: Small;2.5;4;AS8;X;8.8;187;6;6
+2021;Toyota;RAV4 AWD LE;SUV: Small;2.5;4;AS8;X;8.7;184;6;6
+2021;Toyota;RAV4 AWD TRD Off-Road;SUV: Small;2.5;4;AS8;X;9.5;200;6;6
+2021;Toyota;RAV4 Hybrid AWD;SUV: Small;2.5;4;AV;X;5.8;140;8;7
+2021;Toyota;Sequoia 4WD;SUV: Standard;5.7;8;AS6;X;18.5;384;1;5
+2021;Toyota;Sienna;Minivan;2.5;4;AV;X;6.6;153;8;7
+2021;Toyota;Sienna AWD;Minivan;2.5;4;AV;X;6.8;157;7;7
+2021;Toyota;Tacoma 4WD;Pickup truck: Small;3.5;6;AS6;X;13.0;278;4;5
+2021;Toyota;Tacoma 4WD;Pickup truck: Small;3.5;6;M6;X;13.8;299;3;5
+2021;Toyota;Tacoma 4WD D-Cab TRD Off-Road/PRO;Pickup truck: Small;3.5;6;M6;X;13.8;300;3;5
+2021;Toyota;Tundra;Pickup truck: Standard;5.7;8;AS6;X;17.7;371;2;5
+2021;Toyota;Tundra 4WD;Pickup truck: Standard;5.7;8;AS6;X;18.0;382;1;5
+2021;Toyota;Venza AWD;SUV: Small;2.5;4;AV;X;5.9;141;8;7
+2021;Volkswagen;Arteon 4MOTION;Full-size;2.0;4;AS8;Z;11.6;230;5;3
+2021;Volkswagen;Atlas 4MOTION;SUV: Small;2.0;4;AS8;X;11.7;256;4;3
+2021;Volkswagen;Atlas 4MOTION;SUV: Standard;3.6;6;AS8;X;14.6;301;3;5
+2021;Volkswagen;Atlas Cross Sport 4MOTION;SUV: Small;2.0;4;AS8;X;11.7;257;4;3
+2021;Volkswagen;Atlas Cross Sport 4MOTION;SUV: Small;3.6;6;AS8;X;13.8;289;3;5
+2021;Volkswagen;Golf;Compact;1.4;4;AS8;X;8.2;174;7;7
+2021;Volkswagen;Golf;Compact;1.4;4;M6;X;8.0;166;7;7
+2021;Volkswagen;Golf GTI;Compact;2.0;4;AM7;X;9.7;201;6;7
+2021;Volkswagen;Golf GTI;Compact;2.0;4;M6;X;10.1;213;5;7
+2021;Volkswagen;Jetta;Compact;1.4;4;AS8;X;8.0;165;7;7
+2021;Volkswagen;Jetta;Compact;1.4;4;M6;X;7.9;162;7;7
+2021;Volkswagen;Jetta GLI;Compact;2.0;4;AM7;X;9.7;195;6;7
+2021;Volkswagen;Jetta GLI;Compact;2.0;4;M6;X;9.7;198;6;7
+2021;Volkswagen;Passat;Mid-size;2.0;4;AS6;X;9.8;195;6;7
+2021;Volkswagen;Tiguan;SUV: Small;2.0;4;AS8;X;10.4;219;5;7
+2021;Volkswagen;Tiguan 4MOTION;SUV: Small;2.0;4;AS8;X;11.0;232;5;7
+2021;Volvo;S60 T5;Compact;2.0;4;AS8;Z;10.0;200;6;5
+2021;Volvo;S60 T5 AWD;Compact;2.0;4;AS8;Z;10.8;215;5;5
+2021;Volvo;S60 T6 AWD;Compact;2.0;4;AS8;Z;11.0;219;5;7
+2021;Volvo;S90 T6 AWD;Mid-size;2.0;4;AS8;Z;11.3;224;5;7
+2021;Volvo;V60 T5;Station wagon: Small;2.0;4;AS8;Z;10.0;200;6;5
+2021;Volvo;V60 T6 AWD;Station wagon: Small;2.0;4;AS8;Z;11.3;224;5;7
+2021;Volvo;V60 CC T5 AWD;Station wagon: Small;2.0;4;AS8;Z;10.8;220;5;5
+2021;Volvo;XC40 T4 AWD;SUV: Small;2.0;4;AS8;X;10.7;217;5;5
+2021;Volvo;XC40 T5 AWD;SUV: Small;2.0;4;AS8;Z;10.7;219;5;5
+2021;Volvo;XC60 T5 AWD;SUV: Small;2.0;4;AS8;Z;11.1;230;5;5
+2021;Volvo;XC60 T6 AWD;SUV: Small;2.0;4;AS8;Z;11.7;240;5;7
+2021;Volvo;XC90 T5 AWD;SUV: Standard;2.0;4;AS8;Z;11.5;236;5;5
+2021;Volvo;XC90 T6 AWD;SUV: Standard;2.0;4;AS8;Z;12.1;245;5;7
+;;;;;;;;;;;
+Understanding the table;;;;;;;;;;;
+Model;4WD/4X4 = Four-wheel drive;;;;;;;;;;
+;AWD = All-wheel drive;;;;;;;;;;
+;FFV = Flexible-fuel vehicle;;;;;;;;;;
+;SWB = Short wheelbase;;;;;;;;;;
+;LWB = Long wheelbase;;;;;;;;;;
+;EWB = Extended wheelbase;;;;;;;;;;
+Transmission;A = automatic;;;;;;;;;;
+;AM = automated manual;;;;;;;;;;
+;AS = automatic with select shift;;;;;;;;;;
+;AV = continuously variable;;;;;;;;;;
+;M = manual;;;;;;;;;;
+;3 – 10 = Number of gears;;;;;;;;;;
+Fuel type;X = regular gasoline;;;;;;;;;;
+;Z = premium gasoline;;;;;;;;;;
+;D = diesel;;;;;;;;;;
+;E = ethanol (E85);;;;;;;;;;
+;N = natural gas;;;;;;;;;;
+Fuel consumption;City and highway fuel consumption ratings are shown in litres per 100 kilometres (L/100 km) - the combined rating (55% city, 45% hwy) is shown in L/100 km and in miles per imperial gallon (mpg);;;;;;;;;;
+CO2 emissions;the tailpipe emissions of carbon dioxide (in grams per kilometre) for combined city and highway driving;;;;;;;;;;
+CO2 rating;the tailpipe emissions of carbon dioxide rated on a scale from 1 (worst) to 10 (best);;;;;;;;;;
+Smog rating;the tailpipe emissions of smog-forming pollutants rated on a scale from 1 (worst) to 10 (best);;;;;;;;;;
